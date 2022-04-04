@@ -2,7 +2,7 @@
 
 Here is some stuff I built:
 
-#### [WOOF Solana](https://github.com/WoofSolana)
+#### WOOF Solana [Github](https://github.com/WoofSolana) / [Website](https://woofsolana.io)
 
 - [WOOF Rarity Playground](https://playground.woofsolana.io/) 
 
