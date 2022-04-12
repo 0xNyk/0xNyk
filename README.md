@@ -11,3 +11,8 @@ Here is some stuff I built:
 - [WOOF DEX](https://dex.woofsolana.io)
 
 - [WOOF Staking](https://github.com/WoofSolana)
+
+
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xNyk&theme=dark)](https://git.io/streak-stats)
