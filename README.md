@@ -8,11 +8,11 @@
 
 - 🔭 I work as a Software Developer and contributing to front and backend for building web3 Dapp's.
 - 🐕 I'm part of the development team for Woof Solana. 
-<a href="https://twitter.com/WoofSolana">  <img src="https://img.shields.io/twitter/follow/woofsolana?style=social"></a>
+
 
 Here is some stuff I built:
 
-#### WOOF Solana ( [Github](https://github.com/WoofSolana) / [Website](https://woofsolana.io) )
+#### WOOF Solana ( [Github](https://github.com/WoofSolana) / [Website](https://woofsolana.io) ) <a href="https://twitter.com/WoofSolana">  <img src="https://img.shields.io/twitter/follow/woofsolana?style=social"></a>
 
 - [WOOF Rarity Playground](https://playground.woofsolana.io/) 
 
