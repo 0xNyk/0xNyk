@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<p align="center"><img src="https://images-ext-2.discordapp.net/external/tB5QAgTwqqW_TuAWM_FE2tqTdX4lBngDdx16OI6omys/https/media.discordapp.net/attachments/945872969845063730/962815619449913364/skelly_shadow.gif" width="150"/>
 <p align="center">
 <a href="https://twitter.com/0xNyk">  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 </p>
