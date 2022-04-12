@@ -4,7 +4,7 @@
 <p align="center">
 <a href="https://twitter.com/0xNyk">  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=GoatGodGav&style=flat-square&color=blue" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=0xNyk&style=flat-square&color=blue" alt=""></p>
 
 Here is some stuff I built:
 
