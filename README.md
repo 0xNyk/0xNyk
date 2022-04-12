@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-- 🔭 I work as a Software Developer and contributing to front and backend for building web3 Dapp's.
+- 🔭 I work as a Developer and contributing to front and backend for building web3 Dapp's.
 - 🐕 I'm part of the development team for Woof Solana. 
 
 
