@@ -6,11 +6,11 @@
 
 ### Hi there 👋
 
-- 🔭 I work as a Developer and contributing to front and backend for building web3 Dapp's.
-- 🐕 I'm part of the development team for Woof Solana. 
+- 🔭 I work as a Designer & Developer and am contributing to web3 projects mainly.
+- 🐕 Part of the development team of WOOF on the Solana Blockchain. 
 
 
-Here is some stuff I built:
+Here is some stuff built:
 
 #### WOOF Solana ( [Github](https://github.com/WoofSolana) / [Website](https://woofsolana.io) ) <a href="https://twitter.com/WoofSolana">  <img src="https://img.shields.io/twitter/follow/woofsolana?style=social"></a>
 
