@@ -9,6 +9,8 @@
 - 🔭 I work as a Designer & Developer and am contributing to web3 projects mainly.
 - 🐕 Part of the development team of WOOF on the Solana Blockchain. 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/?username=0xNyk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xNyk)](https://github.com/anuraghazra/github-readme-stats)
 
 Here is some stuff built:
 
