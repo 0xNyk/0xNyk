@@ -10,6 +10,7 @@
 - 🐕 Part of the development team of WOOF on the Solana Blockchain. 
 - 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=0xNyk)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Here is some stuff built:
 
