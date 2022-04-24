@@ -17,13 +17,15 @@ Here is some stuff built:
 
 #### WOOF Solana ( [Github](https://github.com/WoofSolana) / [Website](https://woofsolana.io) ) <a href="https://twitter.com/WoofSolana">  <img src="https://img.shields.io/twitter/follow/woofsolana?style=social"></a>
 
+- [WOOF Solana Website](https://woofsolana.io/) 
+
 - [WOOF Rarity Playground](https://playground.woofsolana.io/) 
 
 - [WOOF SWAP](https://swap.woofsolana.io)
 
 - [WOOF DEX](https://dex.woofsolana.io)
 
-- [WOOFer Staking](https://github.com/WoofSolana)
+- [WOOFer Staking](https://stake.woofsolana.io)
 
 ---
 
