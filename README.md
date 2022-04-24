@@ -23,7 +23,7 @@ Here is some stuff built:
 
 - [WOOF DEX](https://dex.woofsolana.io)
 
-- [WOOF Staking](https://github.com/WoofSolana)
+- [WOOFer Staking](https://github.com/WoofSolana)
 
 ---
 
