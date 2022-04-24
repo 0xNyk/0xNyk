@@ -13,7 +13,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xNyk&theme=tokyonight)
 
 
-Here is some stuff built:
 
 #### WOOF Solana ( [Github](https://github.com/WoofSolana) / [Website](https://woofsolana.io) ) <a href="https://twitter.com/WoofSolana">  <img src="https://img.shields.io/twitter/follow/woofsolana?style=social"></a>
 
