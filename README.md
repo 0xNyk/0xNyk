@@ -9,12 +9,7 @@
 - 🔭 I work as a Designer & Developer and am contributing to web3 projects mainly.
 - 🐕 Part of the development team of WOOF on the Solana Blockchain. 
 - 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xNyk&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xNyk&repo=convoychat" />
-</a>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=0xNyk)
 
 Here is some stuff built:
 
