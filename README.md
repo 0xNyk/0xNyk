@@ -11,6 +11,7 @@
 - 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=0xNyk&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xNyk&theme=tokyonight)
+<a href="https://app.daily.dev/0x_Nyk"><img src="https://api.daily.dev/devcards/3f7920d086824a5481447454083a5bd5.png?r=jfn" width="400" alt="0xNyk's Dev Card"/></a>
 
 
 
