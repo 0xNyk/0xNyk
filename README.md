@@ -32,7 +32,7 @@
 - [WOOFer Staking](https://stake.woofsolana.io)
 
 ---
-#### Cynova & Builderz ( [Github](https://github.com/cynova-group) / [Website](https://cynova.io) ) <a href="https://twitter.com/cynova__">  <img src="https://img.shields.io/twitter/follow/woofsolana?style=social"></a>
+#### Cynova & Builderz ( [Github](https://github.com/cynova-group) / [Website](https://cynova.io) ) <a href="https://twitter.com/cynova__">  <img src="https://img.shields.io/twitter/follow/cynova__?style=social"></a>
 
 - [Cynova Raffle](https://cynova.market/) 
 
