@@ -7,6 +7,8 @@
 ### Hi there 👋
 
 - 🔭 I work as a Designer & Developer and am contributing to web3 projects mainly.
+-    CTO at [Cynova & Builderz](https://twitter.com/cynova__)
+
 - 🐕 Part of the development team of WOOF on the Solana Blockchain. 
 
 - Freelance UI/UX Designer & Developer
