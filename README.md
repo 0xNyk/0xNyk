@@ -20,13 +20,13 @@
 
 #### Cynova & Builderz ( [Github](https://github.com/cynova-group) / [Website](https://cynova.io) ) <a href="https://twitter.com/cynova__">  <img src="https://img.shields.io/twitter/follow/cynova__?style=social"></a>
 
-- [Cynova Raffle](https://cynova.market/) 
-
 - [B-Pay](https://b-pay.builderz.build) (automated, recurring team payments & invoices
 
 - [Builderz](https://builderz.build) landingpage
 
 - [Builderz](https://tools.builderz.build) Solana Tool Suite to Pay outstanding royalties, filter for paid royalties and unlisted days, snapshot and airdrop from within a simple UI 
+
+- [Cynova Raffle](https://cynova.market/) Solana Raffle Platform
 
 ---
 
