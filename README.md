@@ -4,7 +4,7 @@
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=0xNyk&style=flat-square&color=blue" alt=""></p>
 
-### Hi there 👋
+### Hi there, I'm Nyk 👋
 
 - CTO & Developer at [Cynova Enterprise](https://twitter.com/cynova__) &  [Builderz](https://twitter.com/builderz__)
 
