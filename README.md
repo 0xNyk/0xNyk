@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-- CTO & Dev at [Cynova & Builderz](https://twitter.com/cynova__)
+- CTO & Developer at [Cynova Enterprise](https://twitter.com/cynova__) &  [Builderz](https://twitter.com/builderz__)
 
 - Part of the development team of WOOF on the Solana Blockchain. 
 
@@ -18,7 +18,17 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xNyk&theme=tokyonight)
 
 
+#### Cynova & Builderz ( [Github](https://github.com/cynova-group) / [Website](https://cynova.io) ) <a href="https://twitter.com/cynova__">  <img src="https://img.shields.io/twitter/follow/cynova__?style=social"></a>
 
+- [Cynova Raffle](https://cynova.market/) 
+
+- [B-Pay](https://b-pay.builderz.build) (automated, recurring team payments & invoices
+
+- [Builderz](https://builderz.build) landingpage
+
+- [Builderz](https://tools.builderz.build) Solana Tool Suite to Pay outstanding royalties, filter for paid royalties and unlisted days, snapshot and airdrop from within a simple UI 
+
+---
 
 #### WOOF Solana ( [Github](https://github.com/WoofSolana) / [Website](https://woofsolana.io) ) <a href="https://twitter.com/WoofSolana">  <img src="https://img.shields.io/twitter/follow/woofsolana?style=social"></a>
 
@@ -33,13 +43,7 @@
 - [WOOFer Staking](https://stake.woofsolana.io)
 
 ---
-#### Cynova & Builderz ( [Github](https://github.com/cynova-group) / [Website](https://cynova.io) ) <a href="https://twitter.com/cynova__">  <img src="https://img.shields.io/twitter/follow/cynova__?style=social"></a>
 
-- [Cynova Raffle](https://cynova.market/) 
-
-- [Builderz](https://twitter.com/builderz__/) 
-
----
 
 ### 🛠 &nbsp;Languages and Tools :
 
