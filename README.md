@@ -8,7 +8,7 @@
 
 - CTO & Developer at [Cynova Enterprise](https://twitter.com/cynova__) &  [Builderz](https://twitter.com/builderz__)
 
-- Part of the development team of WOOF on the Solana Blockchain. 
+- Part of the development team of [WOOF](https://twitter.com/woofsolana) on the Solana Blockchain. 
 
 - Freelance UI/UX Designer & Developer
 [My Portfolio](https://nyk-portfolio.vercel.app) 
