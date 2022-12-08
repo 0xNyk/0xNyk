@@ -32,6 +32,8 @@
 
 - [Cynova Raffle](https://cynova.market/) Solana Raffle Platform
 
+- [Cynova IRL Store](https://store.cynova.io/) Claim your IRL goods
+
 ---
 
 #### WOOF Solana ( [Github](https://github.com/WoofSolana) / [Website](https://woofsolana.io) ) <a href="https://twitter.com/WoofSolana">  <img src="https://img.shields.io/twitter/follow/woofsolana?style=social"></a>
