@@ -20,7 +20,11 @@
 
 #### Cynova & Builderz ( [Github](https://github.com/cynova-group) / [Website](https://cynova.io) ) <a href="https://twitter.com/cynova__">  <img src="https://img.shields.io/twitter/follow/cynova__?style=social"></a>
 
-- [B-Pay](https://b-pay.builderz.build) (automated, recurring team payments & invoices
+- [Builderz Solana dApp Scaffold](https://github.com/Cynova-Group/builderz-solana-dapp-scaffold) Solana dApp Scaffold (Nextjs13)
+
+- [Builderz Solana Tool Suite](https://tools.builderz.build) Solana Tool Suite - Pay outstanding royalties, filter for paid royalties and unlisted days & more
+
+- [B-Pay](https://b-pay.builderz.build) automated, recurring team payments & invoices
 
 - [Builderz](https://builderz.build) landingpage
 
