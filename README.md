@@ -14,38 +14,4 @@
 [My Portfolio](https://nyk-portfolio.vercel.app) 
 
 
-
-#### Cynova & Builderz ( [Github](https://github.com/cynova-group) / [Website](https://cynova.io) ) <a href="https://twitter.com/cynova__">  <img src="https://img.shields.io/twitter/follow/cynova__?style=social"></a>
-
-- [Builderz Solana dApp Scaffold](https://github.com/Cynova-Group/builderz-solana-dapp-scaffold) Solana dApp Scaffold (Nextjs13)
-
-- [Builderz Solana Tool Suite](https://tools.builderz.build) Solana Tool Suite - Pay outstanding royalties, filter for paid royalties and unlisted days & more
-
-- [B-Pay](https://b-pay.builderz.build) automated, recurring team payments & invoices
-
-- [Builderz](https://builderz.build) landingpage
-
-- [Builderz](https://tools.builderz.build) Solana Tool Suite to Pay outstanding royalties, filter for paid royalties and unlisted days, snapshot and airdrop from within a simple UI 
-
-- [Cynova Raffle](https://cynova.market/) Solana Raffle Platform
-
-- [Cynova IRL Store](https://store.cynova.io/) Claim your IRL goods
-
----
-
-#### WOOF Solana ( [Github](https://github.com/WoofSolana) / [Website](https://woofsolana.io) ) <a href="https://twitter.com/WoofSolana">  <img src="https://img.shields.io/twitter/follow/woofsolana?style=social"></a>
-
-- [WOOF Solana Website](https://woofsolana.io/) 
-
-- [WOOF Rarity Playground](https://playground.woofsolana.io/) 
-
-- [WOOF SWAP](https://swap.woofsolana.io)
-
-- [WOOF DEX](https://dex.woofsolana.io)
-
-- [WOOFer Staking](https://stake.woofsolana.io)
-
----
-
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xNyk&theme=dark)](https://git.io/streak-stats)
