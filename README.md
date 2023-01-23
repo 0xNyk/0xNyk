@@ -13,5 +13,3 @@
 - Freelance UI/UX Designer & Developer
 [My Portfolio](https://nyk-portfolio.vercel.app) 
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xNyk&theme=dark)](https://git.io/streak-stats)
