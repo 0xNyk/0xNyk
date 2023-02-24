@@ -6,10 +6,11 @@
 
 ### Hi there, I'm Nyk 👋
 
-- CTO & Developer at [Cynova Enterprise](https://twitter.com/cynova__) &  [Builderz](https://twitter.com/builderz__)
+- CTO & Developer at [Builderz](https://twitter.com/builderz__)
 
 - Alpha Pup and UI & Development at [WOOF](https://twitter.com/woofsolana) on the Solana Blockchain. 
 
 - Freelance UI/UX Designer & Developer
 [My Portfolio](https://nyk-dev.vercel.app) 
 
+- Founder of [SplitLabs](https://twitter.com/split_labs) &
