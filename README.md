@@ -6,7 +6,8 @@
 
 ### Hi there, I'm Nyk 👋
 
-- CTO at [Builderz](https://twitter.com/builderz__)
+- Building [Builderz](https://twitter.com/builderz__)
+- Building [Re:naissance](https://twitter.com/renaissance_xyz)
 
 - Freelance UI/UX Designer & Developer
 [My Portfolio](https://nyk-dev.vercel.app) 
