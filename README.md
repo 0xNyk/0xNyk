@@ -6,8 +6,8 @@
 
 ### Hi there, I'm Nyk 👋
 
-- Building [Builderz](https://twitter.com/builderz__)
-- Building [Re:naissance](https://twitter.com/renaissance_xyz)
+- Building [Builderz](https://twitter.com/builderz__) - web3 agency
+- Building [Re:naissance](https://twitter.com/renaissance_xyz) - Renaissance xNFT Royalty Solution
 
 - Freelance UI/UX Designer & Developer
 [My Portfolio](https://nyk-dev.vercel.app) 
