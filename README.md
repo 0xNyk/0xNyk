@@ -10,7 +10,7 @@
 - Building [Re:naissance](https://twitter.com/renaissance_xyz) - Renaissance xNFT Royalty Solution
 
 - Freelance UI/UX Designer & Developer
-[My Portfolio](https://nyk-dev.vercel.app) 
+Creative [My Portfolio](https://nyk-portfolio.vercel.app/)  Minimalistic [My Portfolio](https://nyk-dev.vercel.app) 
 
 - Alpha Pup and UI & Development at [WOOF](https://twitter.com/woofsolana) on the Solana Blockchain. 
 
