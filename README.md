@@ -7,7 +7,7 @@
 ### Hi there, I'm Nyk 👋
 
 - Building [Builderz](https://twitter.com/builderz__) - web3 agency
-- Building [Re:naissance](https://twitter.com/renaissance_xyz) - Renaissance xNFT Royalty Solution
+- Building [Re:naissance](https://twitter.com/renaissance_xyz) - Renaissance xNFT Royalty Solution (3rd prize DAO track #Grizzlython)
 
 - Freelance UI/UX Designer & Developer
 Creative [My Portfolio](https://nyk-portfolio.vercel.app/)  Minimalistic [My Portfolio](https://nyk-dev.vercel.app) 
