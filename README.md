@@ -3,12 +3,10 @@
 
 ### Hi there, I'm Nyk 👋
 
-- Co-Founder of [Builderz](https://twitter.com/builderz__) - web3 design & dev agency 
+- Co-Founder of [Builderz](https://twitter.com/builderz__) - web3 solana design & development agency 
 - Freelance UI/UX Designer & Developer Creative [My Portfolio](https://nyk-portfolio.vercel.app/)  Minimalistic [My Portfolio](https://nyk-dev.vercel.app) 
 - Techno Producer & DJ 
 - Building [Re:naissance](https://twitter.com/renaissance_xyz) - Renaissance xNFT Royalty Solution (3rd prize DAO track #Grizzlython)
-- DAO Member at [WOOF](https://twitter.com/woofsolana)
-- Founder of [SplitLabs](https://twitter.com/split_labs) 
 
 
 
