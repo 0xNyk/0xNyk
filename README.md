@@ -3,9 +3,8 @@
 
 ### Hi there, I'm Nyk 👋
 
-- Co-Founder of [Builderz](https://twitter.com/builderz__) - web3 solana design & development agency 
+- Co-Founder of [Builderz](https://twitter.com/builderz__) - web3 solana development agency 
 - Techno Producer & DJ 
-- Building [Re:naissance](https://twitter.com/renaissance_xyz) - Renaissance xNFT Royalty Solution (3rd prize DAO track #Grizzlython)
 
 
 
