@@ -3,7 +3,8 @@
 
 ### Hi there, I'm Nyk 👋
 
-- Co-Founder of [Builderz](https://twitter.com/builderz__) - web3 solana development agency 
+- Co-Founder of [Builderz](https://twitter.com/builderz__) - web3 solana development agency
+- Designer & Developer
 - Techno Producer & DJ 
 
 
