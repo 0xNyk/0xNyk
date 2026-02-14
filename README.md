@@ -8,7 +8,7 @@
   <a href="https://twitter.com/nyk_builderz"><img src="https://img.shields.io/badge/X-@nyk__builderz-000?style=flat-square&logo=x" alt="X"/></a>
   <a href="https://builderz.dev"><img src="https://img.shields.io/badge/Builderz.dev-Agency-7C3AED?style=flat-square" alt="Builderz"/></a>
   <a href="https://github.com/builderz-labs"><img src="https://img.shields.io/badge/builderz--labs-Org-181717?style=flat-square&logo=github" alt="Org"/></a>
-  <img src="https://komarev.com/ghpvc/?username=0xNyk&style=flat-square&color=555&label=views" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=0xNyk&style=flat-square&color=grey&label=views" alt="views"/>
 </p>
 
 ---
