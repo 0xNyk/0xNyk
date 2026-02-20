@@ -4,6 +4,15 @@
 
 <h1 align="center">nyk / 0xNyk</h1>
 
+```text
+ _   _       _      _         _ _     _
+| \ | |_   _| | __ | |__  ___| (_) __| | ___ _ __ ____
+|  \| | | | | |/ / | '_ \/ _ \ | |/ _` |/ _ \ '__|_  /
+| |\  | |_| |   <  | |_) |  __/ | | (_| |  __/ |   / /
+|_| \_|\__, |_|
+       |___/
+```
+
 <p align="center">
   Co-Founder & CEO at <a href="https://builderz.dev"><strong>Builderz</strong></a><br/>
   Solana infrastructure, AI agent systems, and production trading software.
@@ -69,8 +78,12 @@ Agents: OpenClaw, Claude Code workflows, multi-agent orchestration
 - Org repos: [github.com/builderz-labs](https://github.com/builderz-labs)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xNyk&show_icons=true&hide_title=true&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xNyk&theme=github_dark" width="98%" alt="GitHub profile details" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=0xNyk&hide_border=true" width="49%" alt="GitHub streak stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xNyk&theme=github_dark" width="49%" alt="Top languages by repository" />
 </p>
 
 <p align="center"><sub>Da Nang, Vietnam - building wherever there is solid Wi-Fi.</sub></p>
