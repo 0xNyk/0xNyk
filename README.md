@@ -52,7 +52,7 @@ Portfolio: [builderz.dev/work](https://builderz.dev/work)
 |---|---|---|
 | [xint](https://github.com/0xNyk/xint) | X intelligence CLI (TypeScript + Bun) | ![Stars](https://img.shields.io/github/stars/0xNyk/xint?style=flat-square&color=111111) |
 | [xint-rs](https://github.com/0xNyk/xint-rs) | Single-binary Rust implementation | ![Stars](https://img.shields.io/github/stars/0xNyk/xint-rs?style=flat-square&color=111111) |
-| [mission-control](https://github.com/builderz-labs/mission-control) | The open-source dashboard for AI agent orchestration. | ![Stars](https://img.shields.io/github/stars/0xNyk/mission-control?style=flat-square&color=111111) |
+| [mission-control](https://github.com/builderz-labs/mission-control) | The open-source dashboard for AI agent orchestration. | ![Stars](https://img.shields.io/github/stars/builderz-labs/mission-control?style=flat-square&color=111111) |
 | [builderz-solana-dapp-scaffold](https://github.com/builderz-labs/builderz-solana-dapp-scaffold) | Solana dApp starter kit | ![Stars](https://img.shields.io/github/stars/builderz-labs/builderz-solana-dapp-scaffold?style=flat-square&color=111111) |
 | [builderz-xNFT-scaffold-next](https://github.com/builderz-labs/builderz-xNFT-scaffold-next) | xNFT scaffold for Backpack | ![Stars](https://img.shields.io/github/stars/builderz-labs/builderz-xNFT-scaffold-next?style=flat-square&color=111111) |
 
