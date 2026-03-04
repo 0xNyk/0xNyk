@@ -5,65 +5,65 @@
 <h1 align="center">nyk / 0xNyk</h1>
 
 <p align="center">
-  Building the control plane for AI agent teams.<br/>
-  Co-Founder at <a href="https://builderz.dev"><strong>Builderz</strong></a> · Founder at <a href="https://splitlabs.io"><strong>splitlabs</strong></a>
+  I build operator systems for AI agents.<br/>
+  Founder at <a href="https://splitlabs.io"><strong>splitlabs</strong></a> · Co-Founder at <a href="https://builderz.dev"><strong>Builderz</strong></a>
 </p>
 
 <p align="center">
   <a href="https://x.com/nyk_builderz"><img src="https://img.shields.io/badge/X-@nyk__builderz-111111?style=flat-square&logo=x" alt="X" /></a>
-  <a href="https://splitlabs.io"><img src="https://img.shields.io/badge/splitlabs.io-platform-0A0A0A?style=flat-square" alt="splitlabs" /></a>
-  <a href="https://github.com/builderz-labs"><img src="https://img.shields.io/badge/builderz--labs-org-181717?style=flat-square&logo=github" alt="builderz-labs" /></a>
-  <a href="https://github.com/splitlabs"><img src="https://img.shields.io/badge/splitlabs-org-181717?style=flat-square&logo=github" alt="splitlabs" /></a>
+  <a href="https://splitlabs.io"><img src="https://img.shields.io/badge/splitlabs.io-agent__ops-0A0A0A?style=flat-square" alt="splitlabs" /></a>
+  <a href="https://github.com/builderz-labs"><img src="https://img.shields.io/badge/builderz--labs-oss-181717?style=flat-square&logo=github" alt="builderz-labs" /></a>
+  <a href="https://github.com/splitlabs"><img src="https://img.shields.io/badge/splitlabs-products-181717?style=flat-square&logo=github" alt="splitlabs" /></a>
 </p>
 
-## Flagship
+## What I believe
 
-### [Mission Control](https://github.com/builderz-labs/mission-control)
-Open-source dashboard for AI agent orchestration: fleet management, task ops, quality gates, costs, and real-time monitoring.
+- Agent teams need **operations**, not demos.
+- The future stack is **open-core control plane + premium operator UX**.
+- Great developer products win on **speed, reliability, and sharp defaults**.
+
+## Current bets
+
+### 1) [Mission Control](https://github.com/builderz-labs/mission-control)
+Open-source control plane for AI agent operations.
 
 ![Stars](https://img.shields.io/github/stars/builderz-labs/mission-control?style=flat-square&color=111111)
 ![Forks](https://img.shields.io/github/forks/builderz-labs/mission-control?style=flat-square&color=111111)
 ![License](https://img.shields.io/github/license/builderz-labs/mission-control?style=flat-square&color=111111)
 
-### [Flight Deck](https://github.com/splitlabs/flight-deck)
-Premium native desktop companion for Mission Control (private beta): PTY grid, stall inbox, tray HUD, and operator-first workflows.
+### 2) [Flight Deck](https://github.com/splitlabs/flight-deck)
+Premium native desktop companion for Mission Control (private beta).
 
-## Products & tools
+### 3) [Dictx](https://github.com/splitlabs/dictx)
+Privacy-first local voice-to-text desktop app with Obsidian integration.
 
-| Product | What it does | Stack / model |
+## Selected open-source work
+
+| Repo | Why it exists | Signal |
 |---|---|---|
-| [Mission Control](https://github.com/builderz-labs/mission-control) | Open-source control plane for AI agent operations | Next.js + TypeScript + SQLite, MIT |
-| [Dictx](https://github.com/splitlabs/dictx) | Privacy-first local voice-to-text desktop app with Obsidian integration | Tauri + Rust, OSS + Pro binary |
-| [xint](https://github.com/0xNyk/xint) | X intelligence CLI for search, monitoring, analysis, and agent workflows | TypeScript/Bun, MIT |
-| [xint-rs](https://github.com/0xNyk/xint-rs) | Rust single-binary implementation of xint | Rust, MIT |
+| [mission-control](https://github.com/builderz-labs/mission-control) | Agent fleet ops: tasks, quality gates, cost visibility, realtime | ![Stars](https://img.shields.io/github/stars/builderz-labs/mission-control?style=flat-square&color=111111) |
+| [xint](https://github.com/0xNyk/xint) | X intelligence CLI for monitoring and research workflows | ![Stars](https://img.shields.io/github/stars/0xNyk/xint?style=flat-square&color=111111) |
+| [xint-rs](https://github.com/0xNyk/xint-rs) | Single-binary Rust variant optimized for speed and portability | ![Stars](https://img.shields.io/github/stars/0xNyk/xint-rs?style=flat-square&color=111111) |
+| [dictx](https://github.com/splitlabs/dictx) | Local-first speech workflow product | ![Stars](https://img.shields.io/github/stars/splitlabs/dictx?style=flat-square&color=111111) |
+| [council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) | Open-sourced multi-perspective reasoning skill | ![Stars](https://img.shields.io/github/stars/0xNyk/council-of-high-intelligence?style=flat-square&color=111111) |
+| [builderz-solana-dapp-scaffold](https://github.com/builderz-labs/builderz-solana-dapp-scaffold) | Production-ready Solana starter kit | ![Stars](https://img.shields.io/github/stars/builderz-labs/builderz-solana-dapp-scaffold?style=flat-square&color=111111) |
 
-## Open-source portfolio
-
-| Repo | Description | Signal |
-|---|---|---|
-| [mission-control](https://github.com/builderz-labs/mission-control) | OSS AI agent orchestration dashboard | ![Stars](https://img.shields.io/github/stars/builderz-labs/mission-control?style=flat-square&color=111111) |
-| [dictx](https://github.com/splitlabs/dictx) | Local speech-to-text desktop app | ![Stars](https://img.shields.io/github/stars/splitlabs/dictx?style=flat-square&color=111111) |
-| [xint](https://github.com/0xNyk/xint) | X intelligence CLI (TypeScript/Bun) | ![Stars](https://img.shields.io/github/stars/0xNyk/xint?style=flat-square&color=111111) |
-| [xint-rs](https://github.com/0xNyk/xint-rs) | xint in Rust | ![Stars](https://img.shields.io/github/stars/0xNyk/xint-rs?style=flat-square&color=111111) |
-| [council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) | Open-sourced Claude Code skill for multi-perspective reasoning | ![Stars](https://img.shields.io/github/stars/0xNyk/council-of-high-intelligence?style=flat-square&color=111111) |
-| [builderz-solana-dapp-scaffold](https://github.com/builderz-labs/builderz-solana-dapp-scaffold) | Production-ready Solana dApp scaffold | ![Stars](https://img.shields.io/github/stars/builderz-labs/builderz-solana-dapp-scaffold?style=flat-square&color=111111) |
-| [builderz-xNFT-scaffold-next](https://github.com/builderz-labs/builderz-xNFT-scaffold-next) | Solana xNFT starter template | ![Stars](https://img.shields.io/github/stars/builderz-labs/builderz-xNFT-scaffold-next?style=flat-square&color=111111) |
-
-## Focus areas
+## Build surface
 
 ```text
-AI agents: orchestration, operator UX, quality gates, workflow automation
-Developer tools: CLI design, MCP integrations, release automation
-Desktop apps: Tauri + Rust, privacy-first local workflows
-Solana: dApps, infra tooling, execution-focused starter kits
+AI agent ops: orchestration, quality gates, operator UX, workflow reliability
+Developer tools: CLI + MCP, release automation, productized OSS
+Desktop products: Tauri + Rust, local-first workflows
+Solana: execution-focused dApp infrastructure and starter frameworks
 ```
 
-## Connect
+## If you are building agent infrastructure
+
+I care about teams shipping real operator workflows, not toy demos.
 
 - Website: [splitlabs.io](https://splitlabs.io)
-- Build with us: [builderz.dev](https://builderz.dev)
+- Work with us: [builderz.dev](https://builderz.dev)
 - X: [@nyk_builderz](https://x.com/nyk_builderz)
-- Orgs: [builderz-labs](https://github.com/builderz-labs) · [splitlabs](https://github.com/splitlabs)
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xNyk&theme=github_dark" width="98%" alt="GitHub profile details" />
