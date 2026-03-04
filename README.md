@@ -4,84 +4,69 @@
 
 <h1 align="center">nyk / 0xNyk</h1>
 
-```text
-+----------------------+
-|  NYK_BUILDERZ / 0xNyk |
-+----------------------+
-```
-
 <p align="center">
-  Co-Founder & CEO at <a href="https://builderz.dev"><strong>Builderz</strong></a><br/>
-  Solana infrastructure, AI agent systems, and production trading software.
+  Building the control plane for AI agent teams.<br/>
+  Co-Founder at <a href="https://builderz.dev"><strong>Builderz</strong></a> · Founder at <a href="https://splitlabs.io"><strong>splitlabs</strong></a>
 </p>
 
 <p align="center">
   <a href="https://x.com/nyk_builderz"><img src="https://img.shields.io/badge/X-@nyk__builderz-111111?style=flat-square&logo=x" alt="X" /></a>
-  <a href="https://builderz.dev"><img src="https://img.shields.io/badge/builderz.dev-agency-0A0A0A?style=flat-square" alt="Builderz website" /></a>
+  <a href="https://splitlabs.io"><img src="https://img.shields.io/badge/splitlabs.io-platform-0A0A0A?style=flat-square" alt="splitlabs" /></a>
   <a href="https://github.com/builderz-labs"><img src="https://img.shields.io/badge/builderz--labs-org-181717?style=flat-square&logo=github" alt="builderz-labs" /></a>
-  <a href="https://github.com/0xNyk"><img src="https://komarev.com/ghpvc/?username=0xNyk&style=flat-square&label=profile+views&color=525252" alt="Profile views" /></a>
+  <a href="https://github.com/splitlabs"><img src="https://img.shields.io/badge/splitlabs-org-181717?style=flat-square&logo=github" alt="splitlabs" /></a>
 </p>
 
-## Currently shipping
+## Flagship
 
-- **AI agent systems:** Multi-agent orchestration with role-based sandboxing and production dashboards, including [Mission Control](https://github.com/builderz-labs/mission-control) and [Hermes](https://github.com/builderz-labs/hermes-dashboard).
-- **X intelligence tooling:** [xint](https://github.com/0xNyk/xint) (TypeScript/Bun) and [xint-rs](https://github.com/0xNyk/xint-rs) (Rust) for search, monitoring, and AI analysis workflows.
-- **Trading infrastructure on Solana:** DLMM/CLOB automation, Jupiter integration, and low-latency market making pipelines.
+### [Mission Control](https://github.com/builderz-labs/mission-control)
+Open-source dashboard for AI agent orchestration: fleet management, task ops, quality gates, costs, and real-time monitoring.
 
-## Track record
+![Stars](https://img.shields.io/github/stars/builderz-labs/mission-control?style=flat-square&color=111111)
+![Forks](https://img.shields.io/github/forks/builderz-labs/mission-control?style=flat-square&color=111111)
+![License](https://img.shields.io/github/license/builderz-labs/mission-control?style=flat-square&color=111111)
 
-- 32+ shipped products
-- 25+ clients across 15 countries
-- 4 hackathon wins
-- $10M+ TVL deployed
+### [Flight Deck](https://github.com/splitlabs/flight-deck)
+Premium native desktop companion for Mission Control (private beta): PTY grid, stall inbox, tray HUD, and operator-first workflows.
 
-## Selected work
+## Products & tools
 
-| Project | What it does |
-|---|---|
-| [Pump.science](https://builderz.dev/work/pump-science) | DeSci product on Solana, presented at Breakpoint 2024 |
-| Renaissance | Royalty redemption tooling for NFT communities |
-| SEND (FOMO) | High-stakes on-chain game mechanics |
-| Reavers | NFT idle game with 10K+ users and $1M+ volume |
-
-Portfolio: [builderz.dev/work](https://builderz.dev/work)
-
-## Open source
-
-| Project | Description | Signal |
+| Product | What it does | Stack / model |
 |---|---|---|
-| [xint](https://github.com/0xNyk/xint) | X intelligence CLI (TypeScript + Bun) | ![Stars](https://img.shields.io/github/stars/0xNyk/xint?style=flat-square&color=111111) |
-| [xint-rs](https://github.com/0xNyk/xint-rs) | Single-binary Rust implementation | ![Stars](https://img.shields.io/github/stars/0xNyk/xint-rs?style=flat-square&color=111111) |
-| [mission-control](https://github.com/builderz-labs/mission-control) | The open-source dashboard for AI agent orchestration. | ![Stars](https://img.shields.io/github/stars/builderz-labs/mission-control?style=flat-square&color=111111) |
-| [builderz-solana-dapp-scaffold](https://github.com/builderz-labs/builderz-solana-dapp-scaffold) | Solana dApp starter kit | ![Stars](https://img.shields.io/github/stars/builderz-labs/builderz-solana-dapp-scaffold?style=flat-square&color=111111) |
-| [builderz-xNFT-scaffold-next](https://github.com/builderz-labs/builderz-xNFT-scaffold-next) | xNFT scaffold for Backpack | ![Stars](https://img.shields.io/github/stars/builderz-labs/builderz-xNFT-scaffold-next?style=flat-square&color=111111) |
+| [Mission Control](https://github.com/builderz-labs/mission-control) | Open-source control plane for AI agent operations | Next.js + TypeScript + SQLite, MIT |
+| [Dictx](https://github.com/splitlabs/dictx) | Privacy-first local voice-to-text desktop app with Obsidian integration | Tauri + Rust, OSS + Pro binary |
+| [xint](https://github.com/0xNyk/xint) | X intelligence CLI for search, monitoring, analysis, and agent workflows | TypeScript/Bun, MIT |
+| [xint-rs](https://github.com/0xNyk/xint-rs) | Rust single-binary implementation of xint | Rust, MIT |
 
-<details>
-<summary><strong>Stack</strong></summary>
+## Open-source portfolio
+
+| Repo | Description | Signal |
+|---|---|---|
+| [mission-control](https://github.com/builderz-labs/mission-control) | OSS AI agent orchestration dashboard | ![Stars](https://img.shields.io/github/stars/builderz-labs/mission-control?style=flat-square&color=111111) |
+| [dictx](https://github.com/splitlabs/dictx) | Local speech-to-text desktop app | ![Stars](https://img.shields.io/github/stars/splitlabs/dictx?style=flat-square&color=111111) |
+| [xint](https://github.com/0xNyk/xint) | X intelligence CLI (TypeScript/Bun) | ![Stars](https://img.shields.io/github/stars/0xNyk/xint?style=flat-square&color=111111) |
+| [xint-rs](https://github.com/0xNyk/xint-rs) | xint in Rust | ![Stars](https://img.shields.io/github/stars/0xNyk/xint-rs?style=flat-square&color=111111) |
+| [council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) | Open-sourced Claude Code skill for multi-perspective reasoning | ![Stars](https://img.shields.io/github/stars/0xNyk/council-of-high-intelligence?style=flat-square&color=111111) |
+| [builderz-solana-dapp-scaffold](https://github.com/builderz-labs/builderz-solana-dapp-scaffold) | Production-ready Solana dApp scaffold | ![Stars](https://img.shields.io/github/stars/builderz-labs/builderz-solana-dapp-scaffold?style=flat-square&color=111111) |
+| [builderz-xNFT-scaffold-next](https://github.com/builderz-labs/builderz-xNFT-scaffold-next) | Solana xNFT starter template | ![Stars](https://img.shields.io/github/stars/builderz-labs/builderz-xNFT-scaffold-next?style=flat-square&color=111111) |
+
+## Focus areas
 
 ```text
-Solana:  Anchor, web3.js, Jupiter, Meteora, Kamino, DLMM, SPL
-Backend: Rust, TypeScript, Node.js, PostgreSQL, Redis
-Frontend: Next.js, React, Tailwind
-Infra: Docker, Linux hardening, systemd, UFW, Tailscale
-Agents: OpenClaw, Claude Code workflows, multi-agent orchestration
+AI agents: orchestration, operator UX, quality gates, workflow automation
+Developer tools: CLI design, MCP integrations, release automation
+Desktop apps: Tauri + Rust, privacy-first local workflows
+Solana: dApps, infra tooling, execution-focused starter kits
 ```
-
-</details>
 
 ## Connect
 
+- Website: [splitlabs.io](https://splitlabs.io)
 - Build with us: [builderz.dev](https://builderz.dev)
-- Follow work in public: [x.com/nyk_builderz](https://x.com/nyk_builderz)
-- Org repos: [github.com/builderz-labs](https://github.com/builderz-labs)
+- X: [@nyk_builderz](https://x.com/nyk_builderz)
+- Orgs: [builderz-labs](https://github.com/builderz-labs) · [splitlabs](https://github.com/splitlabs)
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xNyk&theme=github_dark" width="98%" alt="GitHub profile details" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=0xNyk&hide_border=true" width="49%" alt="GitHub streak stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xNyk&theme=github_dark" width="49%" alt="Top languages by repository" />
 </p>
 
 <p align="center"><sub>Da Nang, Vietnam - building wherever there is solid Wi-Fi.</sub></p>
