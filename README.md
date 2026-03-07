@@ -22,20 +22,6 @@
 - The future stack is **open-core control plane + premium operator UX**.
 - Great developer products win on **speed, reliability, and sharp defaults**.
 
-## Current bets
-
-### 1) [Mission Control](https://github.com/builderz-labs/mission-control)
-Open-source control plane for AI agent operations.
-
-![Stars](https://img.shields.io/github/stars/builderz-labs/mission-control?style=flat-square&color=111111)
-![Forks](https://img.shields.io/github/forks/builderz-labs/mission-control?style=flat-square&color=111111)
-![License](https://img.shields.io/github/license/builderz-labs/mission-control?style=flat-square&color=111111)
-
-### 2) [Flight Deck](https://github.com/splitlabs/flight-deck)
-Premium native desktop companion for Mission Control (private beta).
-
-### 3) [Dictx](https://github.com/splitlabs/dictx)
-Privacy-first local voice-to-text desktop app with Obsidian integration.
 
 ## Selected open-source work
 
