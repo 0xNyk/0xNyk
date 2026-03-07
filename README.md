@@ -28,6 +28,7 @@
 | Repo | Why it exists | Signal |
 |---|---|---|
 | [mission-control](https://github.com/builderz-labs/mission-control) | Agent fleet ops: tasks, quality gates, cost visibility, realtime | ![Stars](https://img.shields.io/github/stars/builderz-labs/mission-control?style=flat-square&color=111111) |
+| [hermes-dashboard](https://github.com/builderz-labs/hermes-dashboard) | Marketing Operations Control Center for AI agent teams (CRM, outreach, content, analytics | ![Stars](https://img.shields.io/github/stars/builderz-labs/hermes-dashboard?style=flat-square&color=111111) |
 | [xint](https://github.com/0xNyk/xint) | X intelligence CLI for monitoring and research workflows | ![Stars](https://img.shields.io/github/stars/0xNyk/xint?style=flat-square&color=111111) |
 | [xint-rs](https://github.com/0xNyk/xint-rs) | Single-binary Rust variant optimized for speed and portability | ![Stars](https://img.shields.io/github/stars/0xNyk/xint-rs?style=flat-square&color=111111) |
 | [dictx](https://github.com/splitlabs/dictx) | Local-first speech workflow product | ![Stars](https://img.shields.io/github/stars/splitlabs/dictx?style=flat-square&color=111111) |
