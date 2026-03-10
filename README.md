@@ -32,6 +32,7 @@
 | [hermes-dashboard](https://github.com/builderz-labs/hermes-dashboard) | Marketing Operations Control Center for AI agent teams (CRM, outreach, content, analytics | ![Stars](https://img.shields.io/github/stars/builderz-labs/hermes-dashboard?style=flat-square&color=111111) |
 | [xint](https://github.com/0xNyk/xint) | X intelligence CLI for monitoring and research workflows | ![Stars](https://img.shields.io/github/stars/0xNyk/xint?style=flat-square&color=111111) |
 | [xint-rs](https://github.com/0xNyk/xint-rs) | Single-binary Rust variant optimized for speed and portability | ![Stars](https://img.shields.io/github/stars/0xNyk/xint-rs?style=flat-square&color=111111) |
+| [lacp](https://github.com/0xNyk/lacp) | Single-binary Rust variant optimized for speed and portability | ![Stars](https://img.shields.io/github/stars/0xNyk/lacp?style=flat-square&color=111111) |
 | [dictx](https://github.com/splitlabs/dictx) | Local-first speech workflow product | ![Stars](https://img.shields.io/github/stars/splitlabs/dictx?style=flat-square&color=111111) |
 | [council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) | Open-sourced multi-perspective reasoning skill | ![Stars](https://img.shields.io/github/stars/0xNyk/council-of-high-intelligence?style=flat-square&color=111111) |
 | [builderz-solana-dapp-scaffold](https://github.com/builderz-labs/builderz-solana-dapp-scaffold) | Production-ready Solana starter kit | ![Stars](https://img.shields.io/github/stars/builderz-labs/builderz-solana-dapp-scaffold?style=flat-square&color=111111) |
