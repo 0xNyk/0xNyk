@@ -59,3 +59,17 @@ I care about teams shipping real operator workflows, not toy demos.
 </p>
 
 <p align="center"><sub>Da Nang, Vietnam - building wherever there is solid Wi-Fi.</sub></p>
+
+
+
+
+
+## ❤️ Support the Dev
+
+If you find this dev is producing useful tools and content, consider supporting my open-source work.
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-orange?logo=buymeacoffee)](https://buymeacoffee.com/nyk_builderz)
+
+**Solana donations**
+
+`BYLu8XD8hGDUtdRBWpGWu5HKoiPrWqCxYFSh4oxXuvPg`
