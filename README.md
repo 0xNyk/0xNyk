@@ -28,8 +28,9 @@
 | Repo | Why it exists | Signal |
 |---|---|---|
 | [mission-control](https://github.com/builderz-labs/mission-control) | Agent fleet ops: tasks, quality gates, cost visibility, realtime | ![Stars](https://img.shields.io/github/stars/builderz-labs/mission-control?style=flat-square&color=111111) |
+| [mission-control](https://github.com/0xNyk/openclaw-to-hermes) | Migrate from OpenClaw to Hermes Agent — complete, battle-tested migration tool | ![Stars](https://img.shields.io/github/stars/0xNyk/openclaw-to-hermes?style=flat-square&color=111111) |
 | [awesome-agent-cortex](https://github.com/0xNyk/awesome-agent-cortex) | The sovereign agent stack — practical scripts, on-chain identity, and knowledge graphs for AI agents that think, remember, and own themselves. | ![Stars](https://img.shields.io/github/stars/0xNyk/awesome-agent-cortex?style=flat-square&color=111111) |
-| [hermes-dashboard](https://github.com/builderz-labs/hermes-dashboard) | Marketing Operations Control Center for AI agent teams (CRM, outreach, content, analytics | ![Stars](https://img.shields.io/github/stars/builderz-labs/hermes-dashboard?style=flat-square&color=111111) |
+| [marketing-dashboard](https://github.com/builderz-labs/hermes-dashboard) | Marketing Operations Control Center for AI agent teams (CRM, outreach, content, analytics | ![Stars](https://img.shields.io/github/stars/builderz-labs/hermes-dashboard?style=flat-square&color=111111) |
 | [xint](https://github.com/0xNyk/xint) | X intelligence CLI for monitoring and research workflows | ![Stars](https://img.shields.io/github/stars/0xNyk/xint?style=flat-square&color=111111) |
 | [xint-rs](https://github.com/0xNyk/xint-rs) | Single-binary Rust variant optimized for speed and portability | ![Stars](https://img.shields.io/github/stars/0xNyk/xint-rs?style=flat-square&color=111111) |
 | [lacp](https://github.com/0xNyk/lacp) | Local Agent Control Plane (LACP): Claude/Codex control-plane for memory, retrieval gates, and telemetry | ![Stars](https://img.shields.io/github/stars/0xNyk/lacp?style=flat-square&color=111111) |
