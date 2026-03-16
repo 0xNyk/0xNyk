@@ -40,21 +40,13 @@ Builder and operator focused on AI agent infrastructure, developer tools, and lo
 | [mission-control](https://github.com/builderz-labs/mission-control) | Agent fleet ops: tasks, quality gates, cost visibility, realtime | ![Stars](https://img.shields.io/github/stars/builderz-labs/mission-control?style=flat-square&color=111111) |
 | [awesome-agent-cortex](https://github.com/0xNyk/awesome-agent-cortex) | Sovereign agent stack — scripts, on-chain identity, and knowledge graphs for agents that think, remember, and own themselves | ![Stars](https://img.shields.io/github/stars/0xNyk/awesome-agent-cortex?style=flat-square&color=111111) |
 | [lacp](https://github.com/0xNyk/lacp) | Local Agent Control Plane: memory, retrieval gates, and telemetry for Claude/Codex | ![Stars](https://img.shields.io/github/stars/0xNyk/lacp?style=flat-square&color=111111) |
+| [xint](https://github.com/0xNyk/xint) | X intelligence CLI (Python) — the original before xint-rs | ![Stars](https://img.shields.io/github/stars/0xNyk/xint?style=flat-square&color=111111) |
 | [xint-rs](https://github.com/0xNyk/xint-rs) | Single-binary Rust CLI for X intelligence — monitoring and research workflows | ![Stars](https://img.shields.io/github/stars/0xNyk/xint-rs?style=flat-square&color=111111) |
+| [builderz-solana-dapp-scaffold](https://github.com/builderz-labs/builderz-solana-dapp-scaffold) | Production-ready Solana starter kit | ![Stars](https://img.shields.io/github/stars/builderz-labs/builderz-solana-dapp-scaffold?style=flat-square&color=111111) |
 | [dictx](https://github.com/splitlabs/dictx) | Local-first speech workflow product (Tauri + Rust) | ![Stars](https://img.shields.io/github/stars/splitlabs/dictx?style=flat-square&color=111111) |
 | [hermes-dashboard](https://github.com/builderz-labs/hermes-dashboard) | Marketing operations control center for AI agent teams (CRM, outreach, content, analytics) | ![Stars](https://img.shields.io/github/stars/builderz-labs/hermes-dashboard?style=flat-square&color=111111) |
 | [openclaw-to-hermes](https://github.com/0xNyk/openclaw-to-hermes) | Battle-tested migration tool from OpenClaw to Hermes Agent | ![Stars](https://img.shields.io/github/stars/0xNyk/openclaw-to-hermes?style=flat-square&color=111111) |
 | [council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) | Multi-perspective reasoning skill for Claude Code | ![Stars](https://img.shields.io/github/stars/0xNyk/council-of-high-intelligence?style=flat-square&color=111111) |
-
-<details>
-<summary>Earlier work</summary>
-
-| Repo | What it does | Signal |
-|---|---|---|
-| [xint](https://github.com/0xNyk/xint) | X intelligence CLI (Python) — the original before xint-rs | ![Stars](https://img.shields.io/github/stars/0xNyk/xint?style=flat-square&color=111111) |
-| [builderz-solana-dapp-scaffold](https://github.com/builderz-labs/builderz-solana-dapp-scaffold) | Production-ready Solana starter kit | ![Stars](https://img.shields.io/github/stars/builderz-labs/builderz-solana-dapp-scaffold?style=flat-square&color=111111) |
-
-</details>
 
 ## Build surface
 
