@@ -19,7 +19,7 @@
 <p align="center">
   <a href="https://x.com/nyk_builderz"><img src="https://img.shields.io/badge/X-@nyk__builderz-111111?style=flat-square&logo=x" alt="X" /></a>
   <a href="https://splitlabs.io"><img src="https://img.shields.io/badge/splitlabs.io-agent__ops-0A0A0A?style=flat-square" alt="splitlabs" /></a>
-  <a href="https://github.com/builderz-labs"><img src="https://img.shields.io/badge/builderz--labs-oss-181717?style=flat-square&logo=github" alt="builderz-labs" /></a>
+  <a href="https://github.com/builderz-labs"><img src="https://img.shields.io/badge/builderz--labs-services-181717?style=flat-square&logo=github" alt="builderz-labs" /></a>
   <a href="https://github.com/splitlabs"><img src="https://img.shields.io/badge/splitlabs-products-181717?style=flat-square&logo=github" alt="splitlabs" /></a>
 </p>
 
