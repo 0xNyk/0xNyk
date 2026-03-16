@@ -69,6 +69,6 @@ Solana          → execution-focused dApp infrastructure
 
 I care about teams shipping real operator workflows, not toy demos.
 
-- Website: [splitlabs.io](https://splitlabs.io)
+- Website: coming soon
 - Work with us: [builderz.dev](https://builderz.dev)
 - X: [@nyk_builderz](https://x.com/nyk_builderz)
