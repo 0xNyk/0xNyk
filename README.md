@@ -25,7 +25,7 @@
 
 ---
 
-Builder and operator focused on AI agent infrastructure, developer tools, and local-first desktop products. Based in Da Nang, Vietnam — building wherever there is solid Wi-Fi.
+Builder and operator focused on AI agent infrastructure, developer tools, and local-first desktop products. Building wherever there is solid Wi-Fi.
 
 ## What I believe
 
