@@ -84,12 +84,6 @@ Desktop         → Tauri + Rust, local-first workflows
 Solana          → execution-focused dApp infrastructure
 ```
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xNyk&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=999999&icon_color=444444&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
 ## If you are building agent infrastructure
 
 I care about teams shipping real operator workflows, not toy demos.
