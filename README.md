@@ -23,7 +23,6 @@ Builder and operator focused on AI agent infrastructure, developer tools, and lo
 ## Currently building
 
 - **[Mission Control](https://github.com/builderz-labs/mission-control)** — open-source agent fleet dashboard (3k+ stars)
-- **[Flight Deck](https://github.com/splitlabs/flight-deck)** — native desktop companion for Mission Control (Tauri v2)
 - **[LACP](https://github.com/0xNyk/lacp)** — local agent control plane for Claude/Codex/Hermes
 
 ## What I believe
