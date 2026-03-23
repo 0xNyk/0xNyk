@@ -17,6 +17,7 @@
 </p>
 
 <p align="center">
+  <a href="https://nyk.dev"><img src="https://img.shields.io/badge/nyk.dev-000000?style=flat-square&logo=vercel&logoColor=white" alt="nyk.dev" /></a>
   <a href="https://x.com/nyk_builderz"><img src="https://img.shields.io/badge/X-@nyk__builderz-111111?style=flat-square&logo=x" alt="X" /></a>
   <a href="https://splitlabs.io"><img src="https://img.shields.io/badge/splitlabs.io-agent__ops-0A0A0A?style=flat-square" alt="splitlabs" /></a>
   <a href="https://github.com/builderz-labs"><img src="https://img.shields.io/badge/builderz--labs-services-181717?style=flat-square&logo=github" alt="builderz-labs" /></a>
@@ -26,6 +27,12 @@
 ---
 
 Builder and operator focused on AI agent infrastructure, developer tools, and local-first desktop products. Building wherever there is solid Wi-Fi.
+
+## Currently building
+
+- **[Mission Control](https://github.com/builderz-labs/mission-control)** — open-source agent fleet dashboard (3k+ stars)
+- **[Flight Deck](https://github.com/splitlabs/flight-deck)** — native desktop companion for Mission Control (Tauri v2)
+- **[LACP](https://github.com/0xNyk/lacp)** — local agent control plane for Claude/Codex/Hermes
 
 ## What I believe
 
@@ -77,9 +84,16 @@ Desktop         → Tauri + Rust, local-first workflows
 Solana          → execution-focused dApp infrastructure
 ```
 
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xNyk&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=999999&icon_color=444444&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
 ## If you are building agent infrastructure
 
 I care about teams shipping real operator workflows, not toy demos.
 
+- Website: [nyk.dev](https://nyk.dev)
 - Work with us: [builderz.dev](https://builderz.dev)
 - X: [@nyk_builderz](https://x.com/nyk_builderz)
