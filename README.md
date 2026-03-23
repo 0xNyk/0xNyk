@@ -1,20 +1,12 @@
-```
+<div align="center">
 
-                                                      ███╗   ██╗██╗   ██╗██╗  ██╗
-                                                      ████╗  ██║╚██╗ ██╔╝██║ ██╔╝
-                                                      ██╔██╗ ██║ ╚████╔╝ █████╔╝
-                                                      ██║╚██╗██║  ╚██╔╝  ██╔═██╗
-                                                      ██║ ╚████║   ██║   ██║  ██╗
-                                                      ╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝
+# nyk
 
-                                                               0 x N y k
+**I build operator systems for AI agents.**
 
-```
+Founder at [**splitlabs**](https://splitlabs.io) · Co-Founder at [**Builderz**](https://builderz.dev)
 
-<p align="center">
-  I build operator systems for AI agents.<br/>
-  Founder at <a href="https://splitlabs.io"><strong>splitlabs</strong></a> · Co-Founder at <a href="https://builderz.dev"><strong>Builderz</strong></a>
-</p>
+</div>
 
 <p align="center">
   <a href="https://nyk.dev"><img src="https://img.shields.io/badge/nyk.dev-000000?style=flat-square&logo=vercel&logoColor=white" alt="nyk.dev" /></a>
