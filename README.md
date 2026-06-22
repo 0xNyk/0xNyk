@@ -82,3 +82,13 @@ I care about teams shipping real operator workflows, not toy demos.
 - Website: [nyk.dev](https://nyk.dev)
 - Work with us: [builderz.dev](https://builderz.dev)
 - X: [@nyk_builderz](https://x.com/nyk_builderz)
+
+## Support
+
+If you find this project useful, consider supporting the open-source work:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-orange?logo=buymeacoffee)](https://buymeacoffee.com/nyk_builderz)
+
+**Solana:** `2k1oq9U99mwy4gm8P2hXPJoZusoXQCpFs35EEf5Ve73y`
+
+
