@@ -40,40 +40,23 @@ Still shipping open source alongside it:
 
 ## Selected open-source work
 
-**Most-starred:** [mission-control](https://github.com/builderz-labs/mission-control) (5.5k) · [awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) (4.4k) · [council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) (3.2k)
+Sorted by stars.
 
-### Agent Infrastructure
-
-| Repo | What it does | Signal |
-|---|---|---|
-| [mission-control](https://github.com/builderz-labs/mission-control) | Agent fleet dashboard — tasks, quality gates, cost tracking, real-time orchestration | ![Stars](https://img.shields.io/github/stars/builderz-labs/mission-control?style=flat-square&color=111111) |
-| [lacp](https://github.com/0xNyk/lacp) | Local Agent Control Plane — policy gates, 5-layer memory, hook pipeline for Claude/Codex/Hermes | ![Stars](https://img.shields.io/github/stars/0xNyk/lacp?style=flat-square&color=111111) |
-| [marketing-dashboard](https://github.com/builderz-labs/marketing-dashboard) | Marketing ops control center for AI agent teams — CRM, outreach, content, analytics | ![Stars](https://img.shields.io/github/stars/builderz-labs/marketing-dashboard?style=flat-square&color=111111) |
-| [openclaw-to-hermes](https://github.com/0xNyk/openclaw-to-hermes) | Battle-tested migration tool from OpenClaw to Hermes Agent | ![Stars](https://img.shields.io/github/stars/0xNyk/openclaw-to-hermes?style=flat-square&color=111111) |
-
-### Curation & Research
-
-| Repo | What it does | Signal |
-|---|---|---|
-| [awesome-agent-cortex](https://github.com/0xNyk/awesome-agent-cortex) | Sovereign agent stack — scripts, on-chain identity, and knowledge graphs for autonomous agents | ![Stars](https://img.shields.io/github/stars/0xNyk/awesome-agent-cortex?style=flat-square&color=111111) |
-| [awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) | Curated skills, tools, and integrations for the Hermes Agent ecosystem by Nous Research | ![Stars](https://img.shields.io/github/stars/0xNyk/awesome-hermes-agent?style=flat-square&color=111111) |
-
-### Developer Tools
-
-| Repo | What it does | Signal |
-|---|---|---|
-| [xint](https://github.com/0xNyk/xint) | X intelligence CLI (TypeScript + Bun) — search, monitor, analyze, engage | ![Stars](https://img.shields.io/github/stars/0xNyk/xint?style=flat-square&color=111111) |
-| [xint-rs](https://github.com/0xNyk/xint-rs) | Single-binary Rust rewrite of xint — 2.5MB, <5ms startup | ![Stars](https://img.shields.io/github/stars/0xNyk/xint-rs?style=flat-square&color=111111) |
-| [council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) | Multi-perspective reasoning skill for Claude Code — historical thinkers deliberate on your problem | ![Stars](https://img.shields.io/github/stars/0xNyk/council-of-high-intelligence?style=flat-square&color=111111) |
-| [dictx](https://github.com/splitlabs/dictx) | Local-first voice-to-text with Obsidian integration (Tauri + Rust) | ![Stars](https://img.shields.io/github/stars/splitlabs/dictx?style=flat-square&color=111111) |
-| [truthlens](https://github.com/0xNyk/truthlens) | Privacy-first AI content authenticity detector — browser extension | ![Stars](https://img.shields.io/github/stars/0xNyk/truthlens?style=flat-square&color=111111) |
-
-### Solana
-
-| Repo | What it does | Signal |
-|---|---|---|
-| [builderz-solana-dapp-scaffold](https://github.com/builderz-labs/builderz-solana-dapp-scaffold) | Production-ready Solana dApp starter (Next.js 14, Tailwind, web3.js) | ![Stars](https://img.shields.io/github/stars/builderz-labs/builderz-solana-dapp-scaffold?style=flat-square&color=111111) |
-| [solana-claude-md](https://github.com/builderz-labs/solana-claude-md) | Open-source CLAUDE.md for AI assistants building Solana programs | ![Stars](https://img.shields.io/github/stars/builderz-labs/solana-claude-md?style=flat-square&color=111111) |
+| Project | What it does | ★ |
+|---|---|--:|
+| [mission-control](https://github.com/builderz-labs/mission-control) | Agent fleet dashboard — tasks, quality gates, cost tracking, real-time orchestration | 5.5k |
+| [awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) | Curated skills, tools, and integrations for the Hermes Agent ecosystem (Nous Research) | 4.4k |
+| [council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) | Multi-perspective reasoning skill for Claude Code — historical thinkers deliberate on your problem | 3.3k |
+| [marketing-dashboard](https://github.com/builderz-labs/marketing-dashboard) | Marketing ops control center for AI agent teams — CRM, outreach, content, analytics | 327 |
+| [lacp](https://github.com/0xNyk/lacp) | Local Agent Control Plane — policy gates, 5-layer memory, hook pipeline for Claude/Codex/Hermes | 281 |
+| [xint](https://github.com/0xNyk/xint) | X intelligence CLI (TypeScript + Bun) — search, monitor, analyze, engage | 169 |
+| [awesome-agent-cortex](https://github.com/0xNyk/awesome-agent-cortex) | Sovereign agent stack — scripts, on-chain identity, and knowledge graphs for autonomous agents | 143 |
+| [builderz-solana-dapp-scaffold](https://github.com/builderz-labs/builderz-solana-dapp-scaffold) | Production-ready Solana dApp starter (Next.js 14, Tailwind, web3.js) | 55 |
+| [openclaw-to-hermes](https://github.com/0xNyk/openclaw-to-hermes) | Battle-tested migration tool from OpenClaw to Hermes Agent | 39 |
+| [xint-rs](https://github.com/0xNyk/xint-rs) | Single-binary Rust rewrite of xint — 2.5MB, <5ms startup | 27 |
+| [solana-claude-md](https://github.com/builderz-labs/solana-claude-md) | Open-source CLAUDE.md for AI assistants building Solana programs | 16 |
+| [dictx](https://github.com/splitlabs/dictx) | Local-first voice-to-text with Obsidian integration (Tauri + Rust) | 5 |
+| [truthlens](https://github.com/0xNyk/truthlens) | Privacy-first AI content authenticity detector — browser extension | 2 |
 
 ## Build surface
 
