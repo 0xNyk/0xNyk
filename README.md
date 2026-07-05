@@ -2,34 +2,41 @@
 
 # nyk
 
-**I build operator systems for AI agents.**
+**Co-Founder @ [rpc edge](https://rpcedge.com) — low-latency Solana infrastructure for high-frequency trading.**
 
-Founder at [**splitlabs**](https://splitlabs.io) · Co-Founder at [**Builderz**](https://builderz.dev)
+Open-source builder across AI agent ops, developer tools, and Solana.
+Previously founded [Builderz](https://builderz.dev).
 
 </div>
 
 <p align="center">
+  <a href="https://rpcedge.com"><img src="https://img.shields.io/badge/rpc%20edge-rpcedge.com-C5F23F?style=flat-square&labelColor=0A0A0A" alt="rpc edge" /></a>
+  <a href="https://docs.rpcedge.com"><img src="https://img.shields.io/badge/docs-rpcedge-0A0A0A?style=flat-square" alt="rpc edge docs" /></a>
   <a href="https://nyk.dev"><img src="https://img.shields.io/badge/nyk.dev-000000?style=flat-square&logo=vercel&logoColor=white" alt="nyk.dev" /></a>
+  <a href="https://x.com/rpcedge"><img src="https://img.shields.io/badge/X-@rpcedge-111111?style=flat-square&logo=x" alt="rpc edge on X" /></a>
   <a href="https://x.com/nyk_builderz"><img src="https://img.shields.io/badge/X-@nyk__builderz-111111?style=flat-square&logo=x" alt="X" /></a>
-  <a href="https://splitlabs.io"><img src="https://img.shields.io/badge/splitlabs.io-agent__ops-0A0A0A?style=flat-square" alt="splitlabs" /></a>
-  <a href="https://github.com/builderz-labs"><img src="https://img.shields.io/badge/builderz--labs-services-181717?style=flat-square&logo=github" alt="builderz-labs" /></a>
-  <a href="https://github.com/splitlabs"><img src="https://img.shields.io/badge/splitlabs-products-181717?style=flat-square&logo=github" alt="splitlabs" /></a>
 </p>
 
 ---
 
-Builder and operator focused on AI agent infrastructure, developer tools, and local-first desktop products. Building wherever there is solid Wi-Fi.
+Co-founder and builder working where **Solana infrastructure** meets **AI agent operations**. By day I build [rpc edge](https://rpcedge.com); the rest is open source.
 
-## Currently building
+## What I'm building now
+
+**[rpc edge](https://rpcedge.com)** — low-latency Solana infrastructure for high-frequency trading teams. Dedicated RPC, Yellowstone gRPC, decoded shred streams, and a transaction sender, co-located with the cluster and the Jito Block Engine. Metered bandwidth, self-serve, paid in USDC on Solana. _By Polaris Labs._
+
+→ [rpcedge.com](https://rpcedge.com) · [docs.rpcedge.com](https://docs.rpcedge.com)
+
+Still shipping open source alongside it:
 
 - **[Mission Control](https://github.com/builderz-labs/mission-control)** — open-source agent fleet dashboard (3k+ stars)
-- **[LACP](https://github.com/0xNyk/lacp)** — local agent control plane for Claude/Codex/Hermes
+- **[LACP](https://github.com/0xNyk/lacp)** — local agent control plane for Claude / Codex / Hermes
 
 ## What I believe
 
+- Infrastructure wins on **latency, reliability, and sharp defaults**.
 - Agent teams need **operations**, not demos.
-- The future stack is **open-core control plane + premium operator UX**.
-- Great developer products win on **speed, reliability, and sharp defaults**.
+- The strongest stack is **open-core control plane + premium operator UX**.
 
 ## Selected open-source work
 
@@ -55,7 +62,7 @@ Builder and operator focused on AI agent infrastructure, developer tools, and lo
 |---|---|---|
 | [xint](https://github.com/0xNyk/xint) | X intelligence CLI (TypeScript + Bun) — search, monitor, analyze, engage | ![Stars](https://img.shields.io/github/stars/0xNyk/xint?style=flat-square&color=111111) |
 | [xint-rs](https://github.com/0xNyk/xint-rs) | Single-binary Rust rewrite of xint — 2.5MB, <5ms startup | ![Stars](https://img.shields.io/github/stars/0xNyk/xint-rs?style=flat-square&color=111111) |
-| [council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) | Multi-perspective reasoning skill for Claude Code — 8 historical thinkers deliberate on your problem | ![Stars](https://img.shields.io/github/stars/0xNyk/council-of-high-intelligence?style=flat-square&color=111111) |
+| [council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) | Multi-perspective reasoning skill for Claude Code — historical thinkers deliberate on your problem | ![Stars](https://img.shields.io/github/stars/0xNyk/council-of-high-intelligence?style=flat-square&color=111111) |
 | [dictx](https://github.com/splitlabs/dictx) | Local-first voice-to-text with Obsidian integration (Tauri + Rust) | ![Stars](https://img.shields.io/github/stars/splitlabs/dictx?style=flat-square&color=111111) |
 | [truthlens](https://github.com/0xNyk/truthlens) | Privacy-first AI content authenticity detector — browser extension | ![Stars](https://img.shields.io/github/stars/0xNyk/truthlens?style=flat-square&color=111111) |
 
@@ -69,26 +76,22 @@ Builder and operator focused on AI agent infrastructure, developer tools, and lo
 ## Build surface
 
 ```text
+Solana infra    → RPC, Yellowstone gRPC, shred streams, transaction sending, HFT latency
 AI agent ops    → orchestration, quality gates, operator UX, workflow reliability
 Developer tools → CLI + MCP, release automation, productized OSS
 Desktop         → Tauri + Rust, local-first workflows
-Solana          → execution-focused dApp infrastructure
 ```
 
-## If you are building agent infrastructure
+## Connect
 
-I care about teams shipping real operator workflows, not toy demos.
-
-- Website: [nyk.dev](https://nyk.dev)
-- Work with us: [builderz.dev](https://builderz.dev)
-- X: [@nyk_builderz](https://x.com/nyk_builderz)
+- **rpc edge:** [rpcedge.com](https://rpcedge.com) · [@rpcedge](https://x.com/rpcedge)
+- **Personal:** [nyk.dev](https://nyk.dev) · [@nyk_builderz](https://x.com/nyk_builderz)
+- **Previously:** founded [Builderz](https://builderz.dev)
 
 ## Support
 
-If you find this project useful, consider supporting the open-source work:
+If you find this open-source work useful, consider supporting it:
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-orange?logo=buymeacoffee)](https://buymeacoffee.com/nyk_builderz)
 
 **Solana:** `2k1oq9U99mwy4gm8P2hXPJoZusoXQCpFs35EEf5Ve73y`
-
-
