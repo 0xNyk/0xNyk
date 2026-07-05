@@ -19,7 +19,7 @@ Previously founded [Builderz](https://builderz.dev).
 
 ---
 
-Co-founder and builder working where **Solana infrastructure** meets **AI agent operations**. By day I build [rpc edge](https://rpcedge.com); the rest is open source.
+Co-founder and builder working where **Solana infrastructure** meets **AI agent operations** — with **14k+ GitHub stars** across open-source projects. By day I build [rpc edge](https://rpcedge.com); the rest is open source.
 
 ## What I'm building now
 
@@ -29,7 +29,7 @@ Co-founder and builder working where **Solana infrastructure** meets **AI agent 
 
 Still shipping open source alongside it:
 
-- **[Mission Control](https://github.com/builderz-labs/mission-control)** — open-source agent fleet dashboard (3k+ stars)
+- **[Mission Control](https://github.com/builderz-labs/mission-control)** — open-source agent fleet dashboard (5.5k+ stars)
 - **[LACP](https://github.com/0xNyk/lacp)** — local agent control plane for Claude / Codex / Hermes
 
 ## What I believe
@@ -39,6 +39,8 @@ Still shipping open source alongside it:
 - The strongest stack is **open-core control plane + premium operator UX**.
 
 ## Selected open-source work
+
+**Most-starred:** [mission-control](https://github.com/builderz-labs/mission-control) (5.5k) · [awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) (4.4k) · [council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) (3.2k)
 
 ### Agent Infrastructure
 
