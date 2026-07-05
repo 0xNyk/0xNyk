@@ -40,8 +40,6 @@ Still shipping open source alongside it:
 
 ## Selected open-source work
 
-Sorted by stars.
-
 | Project | What it does | ★ |
 |---|---|--:|
 | [mission-control](https://github.com/builderz-labs/mission-control) | Agent fleet dashboard — tasks, quality gates, cost tracking, real-time orchestration | 5.5k |
@@ -52,11 +50,6 @@ Sorted by stars.
 | [xint](https://github.com/0xNyk/xint) | X intelligence CLI (TypeScript + Bun) — search, monitor, analyze, engage | 169 |
 | [awesome-agent-cortex](https://github.com/0xNyk/awesome-agent-cortex) | Sovereign agent stack — scripts, on-chain identity, and knowledge graphs for autonomous agents | 143 |
 | [builderz-solana-dapp-scaffold](https://github.com/builderz-labs/builderz-solana-dapp-scaffold) | Production-ready Solana dApp starter (Next.js 14, Tailwind, web3.js) | 55 |
-| [openclaw-to-hermes](https://github.com/0xNyk/openclaw-to-hermes) | Battle-tested migration tool from OpenClaw to Hermes Agent | 39 |
-| [xint-rs](https://github.com/0xNyk/xint-rs) | Single-binary Rust rewrite of xint — 2.5MB, <5ms startup | 27 |
-| [solana-claude-md](https://github.com/builderz-labs/solana-claude-md) | Open-source CLAUDE.md for AI assistants building Solana programs | 16 |
-| [dictx](https://github.com/splitlabs/dictx) | Local-first voice-to-text with Obsidian integration (Tauri + Rust) | 5 |
-| [truthlens](https://github.com/0xNyk/truthlens) | Privacy-first AI content authenticity detector — browser extension | 2 |
 
 ## Build surface
 
