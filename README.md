@@ -29,8 +29,8 @@ Co-founder and builder working where **Solana infrastructure** meets **AI agent 
 
 Still shipping open source alongside it:
 
-- **[Mission Control](https://github.com/builderz-labs/mission-control)** — open-source agent fleet dashboard (5.5k+ stars)
-- **[LACP](https://github.com/0xNyk/lacp)** — local agent control plane for Claude / Codex / Hermes
+- **[Mission Control](https://github.com/builderz-labs/mission-control)** — open-source agent fleet dashboard &nbsp;[![stars](https://img.shields.io/github/stars/builderz-labs/mission-control?style=flat-square&labelColor=0A0A0A&color=C5F23F)](https://github.com/builderz-labs/mission-control/stargazers)
+- **[LACP](https://github.com/0xNyk/lacp)** — local agent control plane for Claude / Codex / Hermes &nbsp;[![stars](https://img.shields.io/github/stars/0xNyk/lacp?style=flat-square&labelColor=0A0A0A&color=C5F23F)](https://github.com/0xNyk/lacp/stargazers)
 
 ## What I believe
 
@@ -40,16 +40,43 @@ Still shipping open source alongside it:
 
 ## Selected open-source work
 
-| Project | What it does | ★ |
-|---|---|--:|
-| [mission-control](https://github.com/builderz-labs/mission-control) | Agent fleet dashboard — tasks, quality gates, cost tracking, real-time orchestration | 5.5k |
-| [awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) | Curated skills, tools, and integrations for the Hermes Agent ecosystem (Nous Research) | 4.4k |
-| [council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) | Multi-perspective reasoning skill for Claude Code — historical thinkers deliberate on your problem | 3.3k |
-| [marketing-dashboard](https://github.com/builderz-labs/marketing-dashboard) | Marketing ops control center for AI agent teams — CRM, outreach, content, analytics | 327 |
-| [lacp](https://github.com/0xNyk/lacp) | Local Agent Control Plane — policy gates, 5-layer memory, hook pipeline for Claude/Codex/Hermes | 281 |
-| [xint](https://github.com/0xNyk/xint) | X intelligence CLI (TypeScript + Bun) — search, monitor, analyze, engage | 169 |
-| [awesome-agent-cortex](https://github.com/0xNyk/awesome-agent-cortex) | Sovereign agent stack — scripts, on-chain identity, and knowledge graphs for autonomous agents | 143 |
-| [builderz-solana-dapp-scaffold](https://github.com/builderz-labs/builderz-solana-dapp-scaffold) | Production-ready Solana dApp starter (Next.js 14, Tailwind, web3.js) | 55 |
+Star counts are live.
+
+| Project | What it does | Stars |
+|---|---|---|
+| [mission-control](https://github.com/builderz-labs/mission-control) | Agent fleet dashboard — tasks, quality gates, cost tracking, real-time orchestration | [![stars](https://img.shields.io/github/stars/builderz-labs/mission-control?style=flat-square&labelColor=0A0A0A&color=C5F23F)](https://github.com/builderz-labs/mission-control/stargazers) |
+| [awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) | Curated skills, tools, and integrations for the Hermes Agent ecosystem (Nous Research) | [![stars](https://img.shields.io/github/stars/0xNyk/awesome-hermes-agent?style=flat-square&labelColor=0A0A0A&color=C5F23F)](https://github.com/0xNyk/awesome-hermes-agent/stargazers) |
+| [council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) | Multi-perspective reasoning skill for Claude Code — historical thinkers deliberate on your problem | [![stars](https://img.shields.io/github/stars/0xNyk/council-of-high-intelligence?style=flat-square&labelColor=0A0A0A&color=C5F23F)](https://github.com/0xNyk/council-of-high-intelligence/stargazers) |
+| [marketing-dashboard](https://github.com/builderz-labs/marketing-dashboard) | Marketing ops control center for AI agent teams — CRM, outreach, content, analytics | [![stars](https://img.shields.io/github/stars/builderz-labs/marketing-dashboard?style=flat-square&labelColor=0A0A0A&color=C5F23F)](https://github.com/builderz-labs/marketing-dashboard/stargazers) |
+| [lacp](https://github.com/0xNyk/lacp) | Local Agent Control Plane — policy gates, 5-layer memory, hook pipeline for Claude/Codex/Hermes | [![stars](https://img.shields.io/github/stars/0xNyk/lacp?style=flat-square&labelColor=0A0A0A&color=C5F23F)](https://github.com/0xNyk/lacp/stargazers) |
+| [xint](https://github.com/0xNyk/xint) | X intelligence CLI (TypeScript + Bun) — search, monitor, analyze, engage | [![stars](https://img.shields.io/github/stars/0xNyk/xint?style=flat-square&labelColor=0A0A0A&color=C5F23F)](https://github.com/0xNyk/xint/stargazers) |
+| [awesome-agent-cortex](https://github.com/0xNyk/awesome-agent-cortex) | Sovereign agent stack — scripts, on-chain identity, and knowledge graphs for autonomous agents | [![stars](https://img.shields.io/github/stars/0xNyk/awesome-agent-cortex?style=flat-square&labelColor=0A0A0A&color=C5F23F)](https://github.com/0xNyk/awesome-agent-cortex/stargazers) |
+| [builderz-solana-dapp-scaffold](https://github.com/builderz-labs/builderz-solana-dapp-scaffold) | Production-ready Solana dApp starter (Next.js 14, Tailwind, web3.js) | [![stars](https://img.shields.io/github/stars/builderz-labs/builderz-solana-dapp-scaffold?style=flat-square&labelColor=0A0A0A&color=C5F23F)](https://github.com/builderz-labs/builderz-solana-dapp-scaffold/stargazers) |
+
+<details>
+<summary><b>More open-source repositories</b> — everything else, most-starred first</summary>
+
+<br>
+
+| Project | What it does | Stars |
+|---|---|---|
+| [pretext-playground](https://github.com/0xNyk/pretext-playground) | Interactive ASCII dragon playground built with @chenglou/pretext — physics-based text, no DOM reflow | [![stars](https://img.shields.io/github/stars/0xNyk/pretext-playground?style=flat-square&labelColor=0A0A0A&color=888888)](https://github.com/0xNyk/pretext-playground/stargazers) |
+| [openclaw-to-hermes](https://github.com/0xNyk/openclaw-to-hermes) | Battle-tested migration tool from OpenClaw to Hermes Agent | [![stars](https://img.shields.io/github/stars/0xNyk/openclaw-to-hermes?style=flat-square&labelColor=0A0A0A&color=888888)](https://github.com/0xNyk/openclaw-to-hermes/stargazers) |
+| [xint-rs](https://github.com/0xNyk/xint-rs) | X intelligence CLI as a single 2.5MB Rust binary — <5ms startup | [![stars](https://img.shields.io/github/stars/0xNyk/xint-rs?style=flat-square&labelColor=0A0A0A&color=888888)](https://github.com/0xNyk/xint-rs/stargazers) |
+| [builderz-xNFT-scaffold-next](https://github.com/builderz-labs/builderz-xNFT-scaffold-next) | Solana xNFT scaffold (Next.js 14, App Dir, TypeScript, Tailwind, web3.js) | [![stars](https://img.shields.io/github/stars/builderz-labs/builderz-xNFT-scaffold-next?style=flat-square&labelColor=0A0A0A&color=888888)](https://github.com/builderz-labs/builderz-xNFT-scaffold-next/stargazers) |
+| [solana-claude-md](https://github.com/builderz-labs/solana-claude-md) | Open-source CLAUDE.md config for AI assistants building Solana programs | [![stars](https://img.shields.io/github/stars/builderz-labs/solana-claude-md?style=flat-square&labelColor=0A0A0A&color=888888)](https://github.com/builderz-labs/solana-claude-md/stargazers) |
+| [hermes-cf-bypass](https://github.com/0xNyk/hermes-cf-bypass) | Bypass Cloudflare blocking for Hermes Agent on datacenter VPS via TLS fingerprint impersonation | [![stars](https://img.shields.io/github/stars/0xNyk/hermes-cf-bypass?style=flat-square&labelColor=0A0A0A&color=888888)](https://github.com/0xNyk/hermes-cf-bypass/stargazers) |
+| [agent-run](https://github.com/builderz-labs/agent-run) | Open standard for agent observability — one schema for how AI agents report work | [![stars](https://img.shields.io/github/stars/builderz-labs/agent-run?style=flat-square&labelColor=0A0A0A&color=888888)](https://github.com/builderz-labs/agent-run/stargazers) |
+| [anon-pay](https://github.com/builderz-labs/anon-pay) | Front-end to send Elusiv private payments on Solana | [![stars](https://img.shields.io/github/stars/builderz-labs/anon-pay?style=flat-square&labelColor=0A0A0A&color=888888)](https://github.com/builderz-labs/anon-pay/stargazers) |
+| [renaissance-xnft](https://github.com/builderz-labs/renaissance-xnft) | Royalty solution for NFT communities to track and redeem royalties | [![stars](https://img.shields.io/github/stars/builderz-labs/renaissance-xnft?style=flat-square&labelColor=0A0A0A&color=888888)](https://github.com/builderz-labs/renaissance-xnft/stargazers) |
+| [builderz-royalty-redemption-program](https://github.com/builderz-labs/builderz-royalty-redemption-program) | Solana program that tracks royalty redemptions to reclaim unpaid royalties | [![stars](https://img.shields.io/github/stars/builderz-labs/builderz-royalty-redemption-program?style=flat-square&labelColor=0A0A0A&color=888888)](https://github.com/builderz-labs/builderz-royalty-redemption-program/stargazers) |
+| [truthlens](https://github.com/0xNyk/truthlens) | Privacy-first AI content authenticity detector — browser extension | [![stars](https://img.shields.io/github/stars/0xNyk/truthlens?style=flat-square&labelColor=0A0A0A&color=888888)](https://github.com/0xNyk/truthlens/stargazers) |
+| [obsidian-curator](https://github.com/0xNyk/obsidian-curator) | Deterministic knowledge-graph maintenance for the Claude + Obsidian memory stack | [![stars](https://img.shields.io/github/stars/0xNyk/obsidian-curator?style=flat-square&labelColor=0A0A0A&color=888888)](https://github.com/0xNyk/obsidian-curator/stargazers) |
+| [homebrew-xint](https://github.com/0xNyk/homebrew-xint) | Homebrew tap for xint and xint-rs | [![stars](https://img.shields.io/github/stars/0xNyk/homebrew-xint?style=flat-square&labelColor=0A0A0A&color=888888)](https://github.com/0xNyk/homebrew-xint/stargazers) |
+| [serverless-merch](https://github.com/0xNyk/serverless-merch) | Create and distribute community merch with no backend server | [![stars](https://img.shields.io/github/stars/0xNyk/serverless-merch?style=flat-square&labelColor=0A0A0A&color=888888)](https://github.com/0xNyk/serverless-merch/stargazers) |
+| [transmuter](https://github.com/0xNyk/transmuter) | Swap, merge, split, and breed old NFTs into new ones on Solana | [![stars](https://img.shields.io/github/stars/0xNyk/transmuter?style=flat-square&labelColor=0A0A0A&color=888888)](https://github.com/0xNyk/transmuter/stargazers) |
+
+</details>
 
 ## Build surface
 
