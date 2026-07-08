@@ -19,18 +19,22 @@ Previously founded [Builderz](https://builderz.dev).
 
 ---
 
-Co-founder and builder working where **Solana infrastructure** meets **AI agent operations** — with **14k+ GitHub stars** across open-source projects. By day I build [rpc edge](https://rpcedge.com); the rest is open source.
+I build at the intersection of **Solana infrastructure** and **AI agent operations** — **14k+ GitHub stars** across open source, plus code landed upstream in [Hermes Agent](https://github.com/NousResearch/hermes-agent). By day I build [rpc edge](https://rpcedge.com); the rest is open source.
 
 ## What I'm building now
 
-**[rpc edge](https://rpcedge.com)** — low-latency Solana infrastructure for high-frequency trading teams. Dedicated RPC, Yellowstone gRPC, decoded shred streams, and a transaction sender, co-located with the cluster and the Jito Block Engine. Metered bandwidth, self-serve, paid in USDC on Solana. _By Polaris Labs._
+**[rpc edge](https://rpcedge.com)** — low-latency Solana infrastructure for high-frequency trading. Dedicated RPC, Yellowstone gRPC, decoded shred streams, and a transaction sender — co-located with the cluster and the Jito Block Engine. Metered bandwidth, self-serve, settled in USDC on Solana. _By Polaris Labs._
 
 → [rpcedge.com](https://rpcedge.com) · [docs.rpcedge.com](https://docs.rpcedge.com)
 
 Still shipping open source alongside it:
 
-- **[Mission Control](https://github.com/builderz-labs/mission-control)** — open-source agent fleet dashboard &nbsp;[![stars](https://img.shields.io/github/stars/builderz-labs/mission-control?style=flat-square&labelColor=0A0A0A&color=C5F23F)](https://github.com/builderz-labs/mission-control/stargazers)
+- **[Mission Control](https://github.com/builderz-labs/mission-control)** — open-source agent fleet dashboard · [live demo ↗](https://mc.builderz.dev) &nbsp;[![stars](https://img.shields.io/github/stars/builderz-labs/mission-control?style=flat-square&labelColor=0A0A0A&color=C5F23F)](https://github.com/builderz-labs/mission-control/stargazers)
+- **[Council of High Intelligence](https://github.com/0xNyk/council-of-high-intelligence)** — multi-perspective reasoning skill for Claude Code &nbsp;[![stars](https://img.shields.io/github/stars/0xNyk/council-of-high-intelligence?style=flat-square&labelColor=0A0A0A&color=C5F23F)](https://github.com/0xNyk/council-of-high-intelligence/stargazers)
+- **[awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent)** — curated skills, tools & integrations for the Hermes Agent ecosystem &nbsp;[![stars](https://img.shields.io/github/stars/0xNyk/awesome-hermes-agent?style=flat-square&labelColor=0A0A0A&color=C5F23F)](https://github.com/0xNyk/awesome-hermes-agent/stargazers)
 - **[LACP](https://github.com/0xNyk/lacp)** — local agent control plane for Claude / Codex / Hermes &nbsp;[![stars](https://img.shields.io/github/stars/0xNyk/lacp?style=flat-square&labelColor=0A0A0A&color=C5F23F)](https://github.com/0xNyk/lacp/stargazers)
+
+**Upstream:** contributor to [**Hermes Agent**](https://github.com/NousResearch/hermes-agent) (Nous Research) — a cron/timezone fix landed on `main` via [co-authored commit](https://github.com/NousResearch/hermes-agent/commit/605ba4adea51af2580f1ab94fd6372e873c108e7), alongside [open PRs](https://github.com/NousResearch/hermes-agent/pulls?q=author%3A0xNyk) for session-continuity, skills, and subagent isolation. Also proposing fixes to [OpenClaw](https://github.com/openclaw/openclaw/pulls?q=author%3A0xNyk).
 
 ## What I believe
 
