@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="build surface">
+  <rect width="1280" height="360" fill="#0a0a0a"/>
+  <text x="640" y="48" text-anchor="middle" fill="#737373"
+        font-family="ui-monospace, SFMono-Regular, Menlo, monospace"
+        font-size="14" letter-spacing="3">BUILD SURFACE</text>
+  <!-- three panels -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+    <!-- panel 1 -->
+    <rect x="64" y="80" width="360" height="220" rx="12" fill="#111" stroke="#262626" stroke-width="1"/>
+    <rect x="64" y="80" width="360" height="4" rx="2" fill="#C5F23F"/>
+    <text x="244" y="130" text-anchor="middle" fill="#fafafa" font-size="20" font-weight="600">Solana infra</text>
+    <text x="244" y="168" text-anchor="middle" fill="#a3a3a3" font-size="14">RPC · gRPC · shreds</text>
+    <text x="244" y="196" text-anchor="middle" fill="#a3a3a3" font-size="14">tx sender · HFT latency</text>
+    <text x="244" y="240" text-anchor="middle" fill="#525252" font-size="13">rpc edge · day job</text>
+    <!-- panel 2 -->
+    <rect x="460" y="80" width="360" height="220" rx="12" fill="#111" stroke="#262626" stroke-width="1"/>
+    <rect x="460" y="80" width="360" height="4" rx="2" fill="#fafafa"/>
+    <text x="640" y="130" text-anchor="middle" fill="#fafafa" font-size="20" font-weight="600">AI agent ops</text>
+    <text x="640" y="168" text-anchor="middle" fill="#a3a3a3" font-size="14">orchestration · gates</text>
+    <text x="640" y="196" text-anchor="middle" fill="#a3a3a3" font-size="14">skills · control planes</text>
+    <text x="640" y="240" text-anchor="middle" fill="#525252" font-size="13">mission-control · council · lacp</text>
+    <!-- panel 3 -->
+    <rect x="856" y="80" width="360" height="220" rx="12" fill="#111" stroke="#262626" stroke-width="1"/>
+    <rect x="856" y="80" width="360" height="4" rx="2" fill="#737373"/>
+    <text x="1036" y="130" text-anchor="middle" fill="#fafafa" font-size="20" font-weight="600">Dev tools</text>
+    <text x="1036" y="168" text-anchor="middle" fill="#a3a3a3" font-size="14">CLI · MCP · profiles</text>
+    <text x="1036" y="196" text-anchor="middle" fill="#a3a3a3" font-size="14">X intel · anti-slop</text>
+    <text x="1036" y="240" text-anchor="middle" fill="#525252" font-size="13">xint · silo · unmachined</text>
+  </g>
+</svg>
