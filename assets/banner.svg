@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="nyk">
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#C5F23F" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#C5F23F" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#C5F23F" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="420" fill="#0a0a0a"/>
+  <!-- subtle grid -->
+  <g stroke="#141414" stroke-width="1">
+    <line x1="0" y1="105" x2="1280" y2="105"/>
+    <line x1="0" y1="210" x2="1280" y2="210"/>
+    <line x1="0" y1="315" x2="1280" y2="315"/>
+    <line x1="320" y1="0" x2="320" y2="420"/>
+    <line x1="640" y1="0" x2="640" y2="420"/>
+    <line x1="960" y1="0" x2="960" y2="420"/>
+  </g>
+  <!-- corner marks -->
+  <g fill="none" stroke="#262626" stroke-width="1.5">
+    <path d="M48 72 H88 M48 72 V112"/>
+    <path d="M1232 72 H1192 M1232 72 V112"/>
+    <path d="M48 348 H88 M48 348 V308"/>
+    <path d="M1232 348 H1192 M1232 348 V308"/>
+  </g>
+  <!-- accent rule -->
+  <rect x="440" y="148" width="400" height="2" fill="url(#fade)"/>
+  <!-- wordmark -->
+  <text x="640" y="220" text-anchor="middle" fill="#fafafa"
+        font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+        font-size="96" font-weight="600" letter-spacing="-4">nyk</text>
+  <!-- tagline -->
+  <text x="640" y="268" text-anchor="middle" fill="#a3a3a3"
+        font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+        font-size="20" letter-spacing="2">SOLANA INFRA  ·  AI AGENT OPS  ·  OSS</text>
+  <!-- bottom meta -->
+  <text x="640" y="340" text-anchor="middle" fill="#525252"
+        font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+        font-size="14" letter-spacing="3">RPC EDGE  ·  BUILDERZ  ·  0XNYK</text>
+</svg>
