@@ -20,7 +20,7 @@ Ventures under the name: co-founder [rpc edge](https://rpcedge.com) · founded [
 
 ---
 
-I build systems that **connect the work**: agent ops, Solana infra, and open source under one name - **9k+ GitHub stars**, code upstream in [Hermes Agent](https://github.com/NousResearch/hermes-agent). [rpc edge](https://rpcedge.com) is one venture node; the rest is public tooling people use.
+I build systems that **connect the work**: agent ops, Solana infra, and open source under one name - **14.5k+ OSS stars** (14,507 exact on flagship repos incl. Mission Control), code upstream in [Hermes Agent](https://github.com/NousResearch/hermes-agent). [rpc edge](https://rpcedge.com) is one venture node; the rest is public tooling people use.
 
 ## What I'm building now
 
