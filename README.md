@@ -1,6 +1,6 @@
 <div align="center">
 
-![nyk](assets/banner.png)
+![nyk](assets/banner.png?v=e7699c4a)
 
 **Builder** - AI agent ops, Solana infrastructure, open source.  
 Personal brand / hub: [nyk.dev](https://nyk.dev) · GitHub: [github.com/0xNyk](https://github.com/0xNyk)
