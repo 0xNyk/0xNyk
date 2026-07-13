@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="nyk">
   <defs>
     <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#C5F23F" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#C5F23F" stop-opacity="0.92"/>
-      <stop offset="100%" stop-color="#C5F23F" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#6EF2A8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#6EF2A8" stop-opacity="0.92"/>
+      <stop offset="100%" stop-color="#6EF2A8" stop-opacity="0"/>
     </linearGradient>
   </defs>
   <rect width="1280" height="420" fill="#0a0a0a"/>
@@ -31,10 +31,10 @@
     <path d="M48 364 H84 M48 364 V328"/>
     <path d="M1232 364 H1196 M1232 364 V328"/>
   </g>
-  <circle cx="48" cy="56" r="2.5" fill="#C5F23F"/>
-  <circle cx="1232" cy="56" r="2.5" fill="#C5F23F"/>
-  <circle cx="48" cy="364" r="2.5" fill="#C5F23F"/>
-  <circle cx="1232" cy="364" r="2.5" fill="#C5F23F"/>
+  <circle cx="48" cy="56" r="2.5" fill="#6EF2A8"/>
+  <circle cx="1232" cy="56" r="2.5" fill="#6EF2A8"/>
+  <circle cx="48" cy="364" r="2.5" fill="#6EF2A8"/>
+  <circle cx="1232" cy="364" r="2.5" fill="#6EF2A8"/>
   <rect x="420" y="118" width="440" height="2.5" fill="url(#fade)"/>
   <text x="640" y="198" text-anchor="middle" fill="#fafafa"
         font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
@@ -43,7 +43,7 @@
         font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
         font-size="18" letter-spacing="2.5">SOLANA INFRA  ·  AI AGENT OPS  ·  OSS</text>
   <circle cx="592" cy="288" r="2" fill="#525252"/>
-  <circle cx="640" cy="288" r="2" fill="#C5F23F"/>
+  <circle cx="640" cy="288" r="2" fill="#6EF2A8"/>
   <circle cx="688" cy="288" r="2" fill="#525252"/>
   <text x="640" y="328" text-anchor="middle" fill="#525252"
         font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
