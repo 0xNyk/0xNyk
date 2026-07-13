@@ -14,7 +14,7 @@
     <text x="244" y="240" text-anchor="middle" fill="#525252" font-size="13">rpc edge · day job</text>
     <!-- panel 2 -->
     <rect x="460" y="80" width="360" height="220" rx="12" fill="#111" stroke="#262626" stroke-width="1"/>
-    <rect x="460" y="80" width="360" height="4" rx="2" fill="#fafafa"/>
+    <rect x="460" y="80" width="360" height="4" rx="2" fill="#6EF2A8"/>
     <text x="640" y="130" text-anchor="middle" fill="#fafafa" font-size="20" font-weight="600">AI agent ops</text>
     <text x="640" y="168" text-anchor="middle" fill="#a3a3a3" font-size="14">orchestration · gates</text>
     <text x="640" y="196" text-anchor="middle" fill="#a3a3a3" font-size="14">skills · control planes</text>
