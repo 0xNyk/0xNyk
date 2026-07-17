@@ -12,7 +12,7 @@ Ventures under the name: co-founder [rpc edge](https://rpcedge.com) · founded [
   <a href="https://github.com/0xNyk"><img src="https://img.shields.io/badge/GitHub-0xNyk-181717?style=flat-square&logo=github&logoColor=6EF2A8" alt="GitHub 0xNyk" /></a>
   <a href="https://rpcedge.com"><img src="https://img.shields.io/badge/rpc%20edge-rpcedge.com-C5F23F?style=flat-square&labelColor=0A0A0A" alt="rpc edge" /></a>
   <a href="https://docs.rpcedge.com"><img src="https://img.shields.io/badge/docs-docs.rpcedge.com-0A0A0A?style=flat-square" alt="rpc edge docs" /></a>
-  <a href="https://x.com/nyk_builderz"><img src="https://img.shields.io/badge/X-@nyk__builderz-0A0A0A?style=flat-square&logo=x&logoColor=6EF2A8" alt="X" /></a>
+  <a href="https://x.com/nykdotdev"><img src="https://img.shields.io/badge/X-@nyk__builderz-0A0A0A?style=flat-square&logo=x&logoColor=6EF2A8" alt="X" /></a>
   <a href="https://x.com/rpcedge"><img src="https://img.shields.io/badge/X-@rpcedge-111111?style=flat-square&logo=x" alt="rpc edge on X" /></a>
 </p>
 
@@ -101,7 +101,7 @@ I build systems that **connect the work**: agent ops, Solana infra, and open sou
 
 | | |
 |---|---|
-| **Profile** | [github.com/0xNyk](https://github.com/0xNyk) · [nyk.dev](https://nyk.dev) · [@nyk_builderz](https://x.com/nyk_builderz) |
+| **Profile** | [github.com/0xNyk](https://github.com/0xNyk) · [nyk.dev](https://nyk.dev) · [@nykdotdev](https://x.com/nykdotdev) |
 | **rpc edge** | [rpcedge.com](https://rpcedge.com) · [@rpcedge](https://x.com/rpcedge) · [docs](https://docs.rpcedge.com) |
 | **Studio** | [Builderz](https://builderz.dev) · [consulting](https://nyk.dev/consulting) |
 
@@ -109,6 +109,6 @@ I build systems that **connect the work**: agent ops, Solana infra, and open sou
 
 If this open-source work is useful:
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-orange?logo=buymeacoffee)](https://buymeacoffee.com/nyk_builderz)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-orange?logo=buymeacoffee)](https://buymeacoffee.com/nykdotdev)
 
 **Solana:** `2k1oq9U99mwy4gm8P2hXPJoZusoXQCpFs35EEf5Ve73y`
