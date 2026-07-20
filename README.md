@@ -32,6 +32,7 @@ I build systems that **connect the work**: agent ops, Solana infra, and open sou
 
 | Project | One-liner | Stars |
 |---|---|---|
+| [agent-security](https://github.com/0xNyk/agent-security) | Safety gates for agent-touched repos - scan leaks, vet code, trip on prompt injection, guard destructive ops | [![stars](https://img.shields.io/github/stars/0xNyk/agent-security?style=flat-square&labelColor=0A0A0A&color=6EF2A8)](https://github.com/0xNyk/agent-security/stargazers) |
 | [silo](https://github.com/0xNyk/silo) | Isolated Claude Code profiles via `CLAUDE_CONFIG_DIR` - no credential vault swap | [![stars](https://img.shields.io/github/stars/0xNyk/silo?style=flat-square&labelColor=0A0A0A&color=6EF2A8)](https://github.com/0xNyk/silo/stargazers) |
 | [unmachined](https://github.com/0xNyk/unmachined) | Anti-AI-slop skill - text + UI that reads written, not generated | [![stars](https://img.shields.io/github/stars/0xNyk/unmachined?style=flat-square&labelColor=0A0A0A&color=6EF2A8)](https://github.com/0xNyk/unmachined/stargazers) |
 | [mission-control](https://github.com/builderz-labs/mission-control) | Agent fleet dashboard - tasks, gates, cost, realtime orchestration | [![stars](https://img.shields.io/github/stars/builderz-labs/mission-control?style=flat-square&labelColor=0A0A0A&color=6EF2A8)](https://github.com/builderz-labs/mission-control/stargazers) |
