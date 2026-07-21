@@ -32,6 +32,7 @@ I build systems that **connect the work**: agent ops, Solana infra, and open sou
 
 | Project | One-liner | Stars |
 |---|---|---|
+| [llmquota](https://github.com/0xNyk/llmquota) | Terminal roster for LLM CLI quotas - see usage, reset times, and which agent still has headroom | [![stars](https://img.shields.io/github/stars/0xNyk/llmquota?style=flat-square&labelColor=0A0A0A&color=6EF2A8)](https://github.com/0xNyk/llmquota/stargazers) |
 | [agent-security](https://github.com/0xNyk/agent-security) | Safety gates for agent-touched repos - scan leaks, vet code, trip on prompt injection, guard destructive ops | [![stars](https://img.shields.io/github/stars/0xNyk/agent-security?style=flat-square&labelColor=0A0A0A&color=6EF2A8)](https://github.com/0xNyk/agent-security/stargazers) |
 | [silo](https://github.com/0xNyk/silo) | Isolated Claude Code profiles via `CLAUDE_CONFIG_DIR` - no credential vault swap | [![stars](https://img.shields.io/github/stars/0xNyk/silo?style=flat-square&labelColor=0A0A0A&color=6EF2A8)](https://github.com/0xNyk/silo/stargazers) |
 | [unmachined](https://github.com/0xNyk/unmachined) | Anti-AI-slop skill - text + UI that reads written, not generated | [![stars](https://img.shields.io/github/stars/0xNyk/unmachined?style=flat-square&labelColor=0A0A0A&color=6EF2A8)](https://github.com/0xNyk/unmachined/stargazers) |
