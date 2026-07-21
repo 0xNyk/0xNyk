@@ -59,7 +59,7 @@ I build systems that **connect the work**: agent ops, Solana infra, and open sou
 
 ## Selected open-source work
 
-**Top 10** by stars + strategic fit. Live badges. Profile: [github.com/0xNyk](https://github.com/0xNyk).
+**Top 10 by stars.** Live badges. Profile: [github.com/0xNyk](https://github.com/0xNyk).
 
 | # | Project | What it does | Stars |
 |---|---|---|---|
@@ -72,25 +72,25 @@ I build systems that **connect the work**: agent ops, Solana infra, and open sou
 | 7 | [awesome-agent-cortex](https://github.com/0xNyk/awesome-agent-cortex) | Sovereign agent stack - scripts, on-chain identity, knowledge graphs | [![stars](https://img.shields.io/github/stars/0xNyk/awesome-agent-cortex?style=flat-square&labelColor=0A0A0A&color=6EF2A8)](https://github.com/0xNyk/awesome-agent-cortex/stargazers) |
 | 8 | [builderz-solana-dapp-scaffold](https://github.com/builderz-labs/builderz-solana-dapp-scaffold) | Production-ready Solana dApp starter (Next.js, Tailwind, web3.js) | [![stars](https://img.shields.io/github/stars/builderz-labs/builderz-solana-dapp-scaffold?style=flat-square&labelColor=0A0A0A&color=6EF2A8)](https://github.com/builderz-labs/builderz-solana-dapp-scaffold/stargazers) |
 | 9 | [openclaw-to-hermes](https://github.com/0xNyk/openclaw-to-hermes) | Battle-tested migration from OpenClaw to Hermes Agent | [![stars](https://img.shields.io/github/stars/0xNyk/openclaw-to-hermes?style=flat-square&labelColor=0A0A0A&color=6EF2A8)](https://github.com/0xNyk/openclaw-to-hermes/stargazers) |
-| 10 | [unmachined](https://github.com/0xNyk/unmachined) | Anti-AI-slop agent skill - deterministic scanners + severity-tiered tell catalogs for text and UI | [![stars](https://img.shields.io/github/stars/0xNyk/unmachined?style=flat-square&labelColor=0A0A0A&color=6EF2A8)](https://github.com/0xNyk/unmachined/stargazers) |
+| 10 | [xint-rs](https://github.com/0xNyk/xint-rs) | X intelligence CLI as a single Rust binary - &lt;5ms startup | [![stars](https://img.shields.io/github/stars/0xNyk/xint-rs?style=flat-square&labelColor=0A0A0A&color=6EF2A8)](https://github.com/0xNyk/xint-rs/stargazers) |
 
 <details>
-<summary><b>More open-source repositories</b> - most useful first</summary>
+<summary><b>More open-source repositories</b> - sorted by stars</summary>
 
 <br>
 
 | Project | What it does | Stars |
 |---|---|---|
-| [silo](https://github.com/0xNyk/silo) | Isolated Claude Code profiles via `CLAUDE_CONFIG_DIR` - personal / work / clients without vault swap | [![stars](https://img.shields.io/github/stars/0xNyk/silo?style=flat-square&labelColor=0A0A0A&color=888888)](https://github.com/0xNyk/silo/stargazers) |
-| [xint-rs](https://github.com/0xNyk/xint-rs) | X intelligence CLI as a single Rust binary - &lt;5ms startup | [![stars](https://img.shields.io/github/stars/0xNyk/xint-rs?style=flat-square&labelColor=0A0A0A&color=888888)](https://github.com/0xNyk/xint-rs/stargazers) |
-| [hermes-cf-bypass](https://github.com/0xNyk/hermes-cf-bypass) | Cloudflare TLS fingerprint bypass for Hermes on datacenter VPS | [![stars](https://img.shields.io/github/stars/0xNyk/hermes-cf-bypass?style=flat-square&labelColor=0A0A0A&color=888888)](https://github.com/0xNyk/hermes-cf-bypass/stargazers) |
 | [builderz-xNFT-scaffold-next](https://github.com/builderz-labs/builderz-xNFT-scaffold-next) | Solana xNFT scaffold (Next.js, TypeScript, Tailwind) | [![stars](https://img.shields.io/github/stars/builderz-labs/builderz-xNFT-scaffold-next?style=flat-square&labelColor=0A0A0A&color=888888)](https://github.com/builderz-labs/builderz-xNFT-scaffold-next/stargazers) |
 | [solana-claude-md](https://github.com/builderz-labs/solana-claude-md) | Open-source CLAUDE.md pack for Solana program work | [![stars](https://img.shields.io/github/stars/builderz-labs/solana-claude-md?style=flat-square&labelColor=0A0A0A&color=888888)](https://github.com/builderz-labs/solana-claude-md/stargazers) |
-| [agent-run](https://github.com/builderz-labs/agent-run) | Open standard for agent observability | [![stars](https://img.shields.io/github/stars/builderz-labs/agent-run?style=flat-square&labelColor=0A0A0A&color=888888)](https://github.com/builderz-labs/agent-run/stargazers) |
+| [hermes-cf-bypass](https://github.com/0xNyk/hermes-cf-bypass) | Cloudflare TLS fingerprint bypass for Hermes on datacenter VPS | [![stars](https://img.shields.io/github/stars/0xNyk/hermes-cf-bypass?style=flat-square&labelColor=0A0A0A&color=888888)](https://github.com/0xNyk/hermes-cf-bypass/stargazers) |
+| [unmachined](https://github.com/0xNyk/unmachined) | Anti-AI-slop agent skill - deterministic scanners + severity-tiered tell catalogs for text and UI | [![stars](https://img.shields.io/github/stars/0xNyk/unmachined?style=flat-square&labelColor=0A0A0A&color=888888)](https://github.com/0xNyk/unmachined/stargazers) |
 | [renaissance-xnft](https://github.com/builderz-labs/renaissance-xnft) | Royalty tracking and redemption for NFT communities | [![stars](https://img.shields.io/github/stars/builderz-labs/renaissance-xnft?style=flat-square&labelColor=0A0A0A&color=888888)](https://github.com/builderz-labs/renaissance-xnft/stargazers) |
-| [builderz-royalty-redemption-program](https://github.com/builderz-labs/builderz-royalty-redemption-program) | Solana program for royalty redemptions | [![stars](https://img.shields.io/github/stars/builderz-labs/builderz-royalty-redemption-program?style=flat-square&labelColor=0A0A0A&color=888888)](https://github.com/builderz-labs/builderz-royalty-redemption-program/stargazers) |
+| [silo](https://github.com/0xNyk/silo) | Isolated Claude Code profiles via `CLAUDE_CONFIG_DIR` - personal / work / clients without vault swap | [![stars](https://img.shields.io/github/stars/0xNyk/silo?style=flat-square&labelColor=0A0A0A&color=888888)](https://github.com/0xNyk/silo/stargazers) |
 | [obsidian-curator](https://github.com/0xNyk/obsidian-curator) | Deterministic knowledge-graph maintenance for Claude + Obsidian | [![stars](https://img.shields.io/github/stars/0xNyk/obsidian-curator?style=flat-square&labelColor=0A0A0A&color=888888)](https://github.com/0xNyk/obsidian-curator/stargazers) |
 | [homebrew-xint](https://github.com/0xNyk/homebrew-xint) | Homebrew tap for xint and xint-rs | [![stars](https://img.shields.io/github/stars/0xNyk/homebrew-xint?style=flat-square&labelColor=0A0A0A&color=888888)](https://github.com/0xNyk/homebrew-xint/stargazers) |
+| [agent-run](https://github.com/builderz-labs/agent-run) | Open standard for agent observability | [![stars](https://img.shields.io/github/stars/builderz-labs/agent-run?style=flat-square&labelColor=0A0A0A&color=888888)](https://github.com/builderz-labs/agent-run/stargazers) |
+| [builderz-royalty-redemption-program](https://github.com/builderz-labs/builderz-royalty-redemption-program) | Solana program for royalty redemptions | [![stars](https://img.shields.io/github/stars/builderz-labs/builderz-royalty-redemption-program?style=flat-square&labelColor=0A0A0A&color=888888)](https://github.com/builderz-labs/builderz-royalty-redemption-program/stargazers) |
 | [serverless-merch](https://github.com/0xNyk/serverless-merch) | Community merch with no backend server | [![stars](https://img.shields.io/github/stars/0xNyk/serverless-merch?style=flat-square&labelColor=0A0A0A&color=888888)](https://github.com/0xNyk/serverless-merch/stargazers) |
 | [transmuter](https://github.com/0xNyk/transmuter) | Swap, merge, split, and breed NFTs on Solana | [![stars](https://img.shields.io/github/stars/0xNyk/transmuter?style=flat-square&labelColor=0A0A0A&color=888888)](https://github.com/0xNyk/transmuter/stargazers) |
 
