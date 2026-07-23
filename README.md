@@ -10,6 +10,7 @@ Ventures under the name: co-founder [rpc edge](https://rpcedge.com) · founded [
 <p>
   <a href="https://nyk.dev"><img src="https://img.shields.io/badge/nyk.dev-6EF2A8?style=flat-square&logo=vercel&logoColor=0A0A0A" alt="nyk.dev" /></a>
   <a href="https://github.com/0xNyk"><img src="https://img.shields.io/badge/GitHub-0xNyk-181717?style=flat-square&logo=github&logoColor=6EF2A8" alt="GitHub 0xNyk" /></a>
+  <a href="https://github.com/0xNyk?tab=repositories"><img src="assets/badges/total.svg" alt="OSS stars" /></a>
   <a href="https://rpcedge.com"><img src="https://img.shields.io/badge/rpc%20edge-rpcedge.com-C5F23F?style=flat-square&labelColor=0A0A0A" alt="rpc edge" /></a>
   <a href="https://docs.rpcedge.com"><img src="https://img.shields.io/badge/docs-docs.rpcedge.com-0A0A0A?style=flat-square" alt="rpc edge docs" /></a>
   <a href="https://x.com/nykdotdev"><img src="https://img.shields.io/badge/X-@nyk__builderz-0A0A0A?style=flat-square&logo=x&logoColor=6EF2A8" alt="X" /></a>
@@ -20,7 +21,7 @@ Ventures under the name: co-founder [rpc edge](https://rpcedge.com) · founded [
 
 ---
 
-I build systems that **connect the work**: agent ops, Solana infra, and open source under one name - **14.5k+ OSS stars** (14,507 exact on flagship repos incl. Mission Control), code upstream in [Hermes Agent](https://github.com/NousResearch/hermes-agent). [rpc edge](https://rpcedge.com) is one venture node; the rest is public tooling people use.
+I build systems that **connect the work**: agent ops, Solana infra, and open source under one name - <!-- oss-total -->**15.8K+ OSS stars** (15,820 live across the open-source repos on this page)<!-- /oss-total -->, code upstream in [Hermes Agent](https://github.com/NousResearch/hermes-agent). [rpc edge](https://rpcedge.com) is one venture node; the rest is public tooling people use.
 
 ## What I'm building now
 

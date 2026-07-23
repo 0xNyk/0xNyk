@@ -27,9 +27,12 @@ VARIANTS = {"": "#6EF2A8", "--gray": "#888888"}
 CHAR_W = {
     "0": 7.0, "1": 7.0, "2": 7.0, "3": 7.0, "4": 7.0,
     "5": 7.0, "6": 7.0, "7": 7.0, "8": 7.0, "9": 7.0,
-    ".": 4.0, "K": 7.4, "?": 6.0,
+    ".": 4.0, "K": 7.4, "?": 6.0, " ": 3.9,
     "s": 5.8, "t": 4.3, "a": 6.1, "r": 4.6,
+    "O": 8.6, "S": 7.4,
 }
+
+TOTAL_MARKER = re.compile(r"<!-- oss-total -->.*?<!-- /oss-total -->", re.DOTALL)
 
 
 def text_width(s: str) -> float:
@@ -61,14 +64,13 @@ def fetch_stars(owner: str, repo: str) -> int | None:
         return None
 
 
-def render(value: str, value_bg: str) -> str:
-    label = "stars"
+def render(value: str, value_bg: str, label: str = "stars") -> str:
     pad = 5
     lw = round(text_width(label)) + 2 * pad
     vw = round(text_width(value)) + 2 * pad
     total = lw + vw
-    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{total}" height="20" role="img" aria-label="stars: {value}">
-<title>stars: {value}</title>
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{total}" height="20" role="img" aria-label="{label}: {value}">
+<title>{label}: {value}</title>
 <g shape-rendering="crispEdges">
 <rect width="{lw}" height="20" fill="{LABEL_BG}"/>
 <rect x="{lw}" width="{vw}" height="20" fill="{value_bg}"/>
@@ -105,6 +107,28 @@ def main() -> None:
         path = OUT / f"{owner}--{repo}{variant}.svg"
         path.write_text(render(fmt_count(count), VARIANTS[variant]))
         print(f"{path.relative_to(ROOT)}: {count}")
+
+    # Live OSS total: sum of unique repos referenced on this page. Only
+    # updated when every fetch succeeded, so a flaky API call can't
+    # publish an undercount.
+    counts = [v for v in stars.values() if v is not None]
+    if len(counts) == len(stars):
+        total = sum(counts)
+        (OUT / "total.svg").write_text(
+            render(fmt_count(total), VARIANTS[""], label="OSS stars")
+        )
+        live = (
+            f"<!-- oss-total -->**{fmt_count(total)}+ OSS stars** "
+            f"({total:,} live across the open-source repos on this page)"
+            f"<!-- /oss-total -->"
+        )
+        updated = TOTAL_MARKER.sub(live, readme)
+        if updated != readme:
+            (ROOT / "README.md").write_text(updated)
+            print("README.md: oss-total updated")
+        print(f"assets/badges/total.svg: {total}")
+    else:
+        print("warn: fetch failures — total left unchanged", file=sys.stderr)
 
 
 if __name__ == "__main__":
