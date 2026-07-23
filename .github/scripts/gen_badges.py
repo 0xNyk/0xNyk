@@ -119,7 +119,7 @@ def main() -> None:
         )
         live = (
             f"<!-- oss-total -->**{fmt_count(total)}+ OSS stars** "
-            f"({total:,} live across the open-source repos on this page)"
+            f"({total:,} live across the nyk + Builderz repos on this page)"
             f"<!-- /oss-total -->"
         )
         updated = TOTAL_MARKER.sub(live, readme)

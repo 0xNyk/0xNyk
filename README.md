@@ -13,7 +13,7 @@ Ventures under the name: co-founder [rpc edge](https://rpcedge.com) · founded [
   <a href="https://github.com/0xNyk?tab=repositories"><img src="assets/badges/total.svg" alt="OSS stars" /></a>
   <a href="https://rpcedge.com"><img src="https://img.shields.io/badge/rpc%20edge-rpcedge.com-C5F23F?style=flat-square&labelColor=0A0A0A" alt="rpc edge" /></a>
   <a href="https://docs.rpcedge.com"><img src="https://img.shields.io/badge/docs-docs.rpcedge.com-0A0A0A?style=flat-square" alt="rpc edge docs" /></a>
-  <a href="https://x.com/nykdotdev"><img src="https://img.shields.io/badge/X-@nyk__builderz-0A0A0A?style=flat-square&logo=x&logoColor=6EF2A8" alt="X" /></a>
+  <a href="https://x.com/nykdotdev"><img src="https://img.shields.io/badge/X-@nykdotdev-0A0A0A?style=flat-square&logo=x&logoColor=6EF2A8" alt="X" /></a>
   <a href="https://x.com/rpcedge"><img src="https://img.shields.io/badge/X-@rpcedge-111111?style=flat-square&logo=x" alt="rpc edge on X" /></a>
 </p>
 
@@ -21,7 +21,7 @@ Ventures under the name: co-founder [rpc edge](https://rpcedge.com) · founded [
 
 ---
 
-I build systems that **connect the work**: agent ops, Solana infra, and open source under one name - <!-- oss-total -->**15.8K+ OSS stars** (15,820 live across the open-source repos on this page)<!-- /oss-total -->, code upstream in [Hermes Agent](https://github.com/NousResearch/hermes-agent). [rpc edge](https://rpcedge.com) is one venture node; the rest is public tooling people use.
+I build the **ops layer for AI agent fleets** - quotas, safety gates, orchestration, control planes - and prove it in daily use: my ventures run on the same agent stack I open-source, down to the live star counts on this page. <!-- oss-total -->**15.8K+ OSS stars** (15,821 live across the nyk + Builderz repos on this page)<!-- /oss-total -->, code upstream in [Hermes Agent](https://github.com/NousResearch/hermes-agent). [rpc edge](https://rpcedge.com) is the Solana infrastructure venture; the rest is public tooling people use.
 
 ## What I'm building now
 
@@ -37,26 +37,8 @@ I build systems that **connect the work**: agent ops, Solana infra, and open sou
 | [agent-security](https://github.com/0xNyk/agent-security) | Safety gates for agent-touched repos - scan leaks, vet code, trip on prompt injection, guard destructive ops | [![stars](assets/badges/0xNyk--agent-security.svg)](https://github.com/0xNyk/agent-security/stargazers) |
 | [silo](https://github.com/0xNyk/silo) | Isolated Claude Code profiles via `CLAUDE_CONFIG_DIR` - no credential vault swap | [![stars](assets/badges/0xNyk--silo.svg)](https://github.com/0xNyk/silo/stargazers) |
 | [unmachined](https://github.com/0xNyk/unmachined) | Anti-AI-slop skill - text + UI that reads written, not generated | [![stars](assets/badges/0xNyk--unmachined.svg)](https://github.com/0xNyk/unmachined/stargazers) |
-| [mission-control](https://github.com/builderz-labs/mission-control) | Agent fleet dashboard - tasks, gates, cost, realtime orchestration | [![stars](assets/badges/builderz-labs--mission-control.svg)](https://github.com/builderz-labs/mission-control/stargazers) |
-| [awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) | Curated Hermes Agent ecosystem list | [![stars](assets/badges/0xNyk--awesome-hermes-agent.svg)](https://github.com/0xNyk/awesome-hermes-agent/stargazers) |
-| [council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) | Multi-perspective reasoning skill | [![stars](assets/badges/0xNyk--council-of-high-intelligence.svg)](https://github.com/0xNyk/council-of-high-intelligence/stargazers) |
-| [lacp](https://github.com/0xNyk/lacp) | Local agent control plane - policy, memory, hooks | [![stars](assets/badges/0xNyk--lacp.svg)](https://github.com/0xNyk/lacp/stargazers) |
-| [xint](https://github.com/0xNyk/xint) | X intelligence CLI (TypeScript + Bun) | [![stars](assets/badges/0xNyk--xint.svg)](https://github.com/0xNyk/xint/stargazers) |
-| [openclaw-to-hermes](https://github.com/0xNyk/openclaw-to-hermes) | Migration tool from OpenClaw to Hermes Agent | [![stars](assets/badges/0xNyk--openclaw-to-hermes.svg)](https://github.com/0xNyk/openclaw-to-hermes/stargazers) |
 
 **Upstream:** contributor to [**Hermes Agent**](https://github.com/NousResearch/hermes-agent) (Nous Research) - cron/timezone fix on `main` via [co-authored commit](https://github.com/NousResearch/hermes-agent/commit/605ba4adea51af2580f1ab94fd6372e873c108e7), plus [open PRs](https://github.com/NousResearch/hermes-agent/pulls?q=author%3A0xNyk) for session continuity, skills, and subagent isolation. Also proposing fixes to [OpenClaw](https://github.com/openclaw/openclaw/pulls?q=author%3A0xNyk).
-
-## What I believe
-
-- Infrastructure wins on **latency, reliability, and sharp defaults**.
-- Agent teams need **operations**, not demos.
-- The strongest stack is **open-core control plane + premium operator UX**.
-
-## Build surface
-
-<p align="center">
-  <img src="assets/stack.png" alt="Build surface: Solana infra, AI agent ops, Dev tools" width="900" />
-</p>
 
 ## Selected open-source work
 
@@ -90,12 +72,24 @@ I build systems that **connect the work**: agent ops, Solana infra, and open sou
 | [silo](https://github.com/0xNyk/silo) | Isolated Claude Code profiles via `CLAUDE_CONFIG_DIR` - personal / work / clients without vault swap | [![stars](assets/badges/0xNyk--silo--gray.svg)](https://github.com/0xNyk/silo/stargazers) |
 | [obsidian-curator](https://github.com/0xNyk/obsidian-curator) | Deterministic knowledge-graph maintenance for Claude + Obsidian | [![stars](assets/badges/0xNyk--obsidian-curator--gray.svg)](https://github.com/0xNyk/obsidian-curator/stargazers) |
 | [homebrew-xint](https://github.com/0xNyk/homebrew-xint) | Homebrew tap for xint and xint-rs | [![stars](assets/badges/0xNyk--homebrew-xint--gray.svg)](https://github.com/0xNyk/homebrew-xint/stargazers) |
-| [agent-run](https://github.com/builderz-labs/agent-run) | Open standard for agent observability | [![stars](assets/badges/builderz-labs--agent-run--gray.svg)](https://github.com/builderz-labs/agent-run/stargazers) |
-| [builderz-royalty-redemption-program](https://github.com/builderz-labs/builderz-royalty-redemption-program) | Solana program for royalty redemptions | [![stars](assets/badges/builderz-labs--builderz-royalty-redemption-program--gray.svg)](https://github.com/builderz-labs/builderz-royalty-redemption-program/stargazers) |
-| [serverless-merch](https://github.com/0xNyk/serverless-merch) | Community merch with no backend server | [![stars](assets/badges/0xNyk--serverless-merch--gray.svg)](https://github.com/0xNyk/serverless-merch/stargazers) |
-| [transmuter](https://github.com/0xNyk/transmuter) | Swap, merge, split, and breed NFTs on Solana | [![stars](assets/badges/0xNyk--transmuter--gray.svg)](https://github.com/0xNyk/transmuter/stargazers) |
 
 </details>
+
+## What I believe
+
+- Infrastructure wins on **latency, reliability, and sharp defaults**.
+- Agent teams need **operations**, not demos.
+- The strongest stack is **open-core control plane + premium operator UX**.
+
+## Build surface
+
+<p align="center">
+  <img src="assets/stack.png" alt="Build surface: Solana infra, AI agent ops, Dev tools" width="900" />
+</p>
+
+## Consulting
+
+Selective engagements: agent operations and Solana infrastructure. → [nyk.dev/consulting](https://nyk.dev/consulting)
 
 ## Connect
 
@@ -104,11 +98,3 @@ I build systems that **connect the work**: agent ops, Solana infra, and open sou
 | **Profile** | [github.com/0xNyk](https://github.com/0xNyk) · [nyk.dev](https://nyk.dev) · [@nykdotdev](https://x.com/nykdotdev) |
 | **rpc edge** | [rpcedge.com](https://rpcedge.com) · [@rpcedge](https://x.com/rpcedge) · [docs](https://docs.rpcedge.com) |
 | **Studio** | [Builderz](https://builderz.dev) · [consulting](https://nyk.dev/consulting) |
-
-## Support
-
-If this open-source work is useful:
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-orange?logo=buymeacoffee)](https://buymeacoffee.com/nykdotdev)
-
-**Solana:** `2k1oq9U99mwy4gm8P2hXPJoZusoXQCpFs35EEf5Ve73y`
