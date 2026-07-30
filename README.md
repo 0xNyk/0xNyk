@@ -33,6 +33,7 @@ I build the **ops layer for AI agent fleets** - quotas, safety gates, orchestrat
 
 | Project | One-liner | Stars |
 |---|---|---|
+| [hermes-buzz](https://github.com/0xNyk/hermes-buzz) | Hermes Agent × Buzz starter kit (buzz-acp + hermes-acp onboarding)| [![stars](assets/badges/0xNyk--hermes-buzz.svg)](https://github.com/0xNyk/hermes-buzz/stargazers) |
 | [llmquota](https://github.com/0xNyk/llmquota) | Terminal roster for LLM CLI quotas - see usage, reset times, and which agent still has headroom | [![stars](assets/badges/0xNyk--llmquota.svg)](https://github.com/0xNyk/llmquota/stargazers) |
 | [agent-security](https://github.com/0xNyk/agent-security) | Safety gates for agent-touched repos - scan leaks, vet code, trip on prompt injection, guard destructive ops | [![stars](assets/badges/0xNyk--agent-security.svg)](https://github.com/0xNyk/agent-security/stargazers) |
 | [silo](https://github.com/0xNyk/silo) | Isolated Claude Code profiles via `CLAUDE_CONFIG_DIR` - no credential vault swap | [![stars](assets/badges/0xNyk--silo.svg)](https://github.com/0xNyk/silo/stargazers) |
