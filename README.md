@@ -27,12 +27,23 @@ I build the **ops layer for AI agent fleets** - quotas, safety gates, orchestrat
 
 **[rpc edge](https://rpcedge.com)** - low-latency Solana infrastructure for high-frequency trading. Dedicated RPC, Yellowstone gRPC, decoded shred streams, and a transaction sender - co-located with the cluster and the Jito Block Engine. Metered bandwidth, self-serve, settled in USDC on Solana. _By Polaris Labs._
 
-→ [rpcedge.com](https://rpcedge.com) · [docs.rpcedge.com](https://docs.rpcedge.com)
+Open tooling for the same stack:
+
+| Repo | What it is |
+|---|---|
+| [rpcedge-toolkit](https://github.com/rpc-edge/rpcedge-toolkit) | TypeScript SDK, CLI, and MCP server for Solana trading infrastructure |
+| [rpcedge-copy-ref](https://github.com/rpc-edge/rpcedge-copy-ref) | Paper copy-watch reference - doctor → poll wallet → paper log (not financial advice) |
+| [rpcedge-dlmm-ref](https://github.com/rpc-edge/rpcedge-dlmm-ref) | Paper Meteora DLMM pool-watch reference - doctor → accountSubscribe → paper log (not financial advice) |
+
+→ [rpcedge.com](https://rpcedge.com) · [docs.rpcedge.com](https://docs.rpcedge.com) · [toolkit](https://rpcedge.com/toolkit)
 
 **Latest open source (shipping):**
 
 | Project | One-liner | Stars |
 |---|---|---|
+| [rpcedge-toolkit](https://github.com/rpc-edge/rpcedge-toolkit) | TypeScript SDK, CLI, and MCP server for rpc edge / Solana trading infra | [![stars](assets/badges/rpc-edge--rpcedge-toolkit.svg)](https://github.com/rpc-edge/rpcedge-toolkit/stargazers) |
+| [rpcedge-copy-ref](https://github.com/rpc-edge/rpcedge-copy-ref) | Minimal paper copy-watch reference for rpc edge (doctor → poll → paper log) | [![stars](assets/badges/rpc-edge--rpcedge-copy-ref.svg)](https://github.com/rpc-edge/rpcedge-copy-ref/stargazers) |
+| [rpcedge-dlmm-ref](https://github.com/rpc-edge/rpcedge-dlmm-ref) | Paper Meteora DLMM pool-watch reference for rpc edge (not financial advice) | [![stars](assets/badges/rpc-edge--rpcedge-dlmm-ref.svg)](https://github.com/rpc-edge/rpcedge-dlmm-ref/stargazers) |
 | [hermes-buzz](https://github.com/0xNyk/hermes-buzz) | Hermes Agent × Buzz starter kit (buzz-acp + hermes-acp onboarding)| [![stars](assets/badges/0xNyk--hermes-buzz.svg)](https://github.com/0xNyk/hermes-buzz/stargazers) |
 | [llmquota](https://github.com/0xNyk/llmquota) | Terminal roster for LLM CLI quotas - see usage, reset times, and which agent still has headroom | [![stars](assets/badges/0xNyk--llmquota.svg)](https://github.com/0xNyk/llmquota/stargazers) |
 | [agent-security](https://github.com/0xNyk/agent-security) | Safety gates for agent-touched repos - scan leaks, vet code, trip on prompt injection, guard destructive ops | [![stars](assets/badges/0xNyk--agent-security.svg)](https://github.com/0xNyk/agent-security/stargazers) |
