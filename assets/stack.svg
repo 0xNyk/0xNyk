@@ -1,30 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="build surface">
-  <rect width="1280" height="360" fill="#0a0a0a"/>
-  <text x="640" y="48" text-anchor="middle" fill="#737373"
-        font-family="ui-monospace, SFMono-Regular, Menlo, monospace"
-        font-size="14" letter-spacing="3">BUILD SURFACE</text>
-  <!-- three panels -->
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
-    <!-- panel 1 -->
-    <rect x="64" y="80" width="360" height="220" rx="12" fill="#111" stroke="#262626" stroke-width="1"/>
-    <rect x="64" y="80" width="360" height="4" rx="2" fill="#C5F23F"/>
-    <text x="244" y="130" text-anchor="middle" fill="#fafafa" font-size="20" font-weight="600">Solana infra</text>
-    <text x="244" y="168" text-anchor="middle" fill="#a3a3a3" font-size="14">RPC · gRPC · shreds</text>
-    <text x="244" y="196" text-anchor="middle" fill="#a3a3a3" font-size="14">tx sender · HFT latency</text>
-    <text x="244" y="240" text-anchor="middle" fill="#525252" font-size="13">rpc edge · day job</text>
-    <!-- panel 2 -->
-    <rect x="460" y="80" width="360" height="220" rx="12" fill="#111" stroke="#262626" stroke-width="1"/>
-    <rect x="460" y="80" width="360" height="4" rx="2" fill="#6EF2A8"/>
-    <text x="640" y="130" text-anchor="middle" fill="#fafafa" font-size="20" font-weight="600">AI agent ops</text>
-    <text x="640" y="168" text-anchor="middle" fill="#a3a3a3" font-size="14">orchestration · gates</text>
-    <text x="640" y="196" text-anchor="middle" fill="#a3a3a3" font-size="14">skills · control planes</text>
-    <text x="640" y="240" text-anchor="middle" fill="#525252" font-size="13">mission-control · council · lacp</text>
-    <!-- panel 3 -->
-    <rect x="856" y="80" width="360" height="220" rx="12" fill="#111" stroke="#262626" stroke-width="1"/>
-    <rect x="856" y="80" width="360" height="4" rx="2" fill="#737373"/>
-    <text x="1036" y="130" text-anchor="middle" fill="#fafafa" font-size="20" font-weight="600">Dev tools</text>
-    <text x="1036" y="168" text-anchor="middle" fill="#a3a3a3" font-size="14">CLI · MCP · profiles</text>
-    <text x="1036" y="196" text-anchor="middle" fill="#a3a3a3" font-size="14">X intel · anti-slop</text>
-    <text x="1036" y="240" text-anchor="middle" fill="#525252" font-size="13">xint · silo · unmachined</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-label="Build surface: Solana infrastructure, agent operating systems, developer tools">
+<rect width="1200" height="460" fill="#0D0D0C"/>
+<text x="48" y="56" fill="#9C9C96" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="3.4">BUILD SURFACE</text>
+<text x="48" y="90" fill="#F2F1EE" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="25" font-weight="700" letter-spacing="-0.4">Three layers, one operator.</text>
+<text x="1152" y="90" text-anchor="end" fill="#F2F1EE" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="25" font-weight="700">16K+</text>
+<text x="1152" y="56" text-anchor="end" fill="#9C9C96" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="2.2">OSS STARS</text>
+<rect x="48" y="118" width="352" height="268" rx="6" fill="#141413" stroke="#2F2F2C" stroke-width="1"/>
+<rect x="48" y="118" width="352" height="3" fill="#FFFFFF" opacity="0.90"/>
+<text x="70" y="164" fill="#F2F1EE" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="19" font-weight="700">Solana infra</text>
+<text x="70" y="188" fill="#6F6F69" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="1.6">EXECUTION PATH</text>
+<line x1="70" y1="206" x2="378" y2="206" stroke="#2F2F2C" stroke-width="1"/>
+<text x="70" y="234" fill="#9C9C96" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">RPC · gRPC · shreds · tx sender</text>
+<text x="70" y="264" fill="#6F6F69" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="13">latency-sensitive execution,</text>
+<text x="70" y="283" fill="#6F6F69" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="13">co-located with the cluster</text>
+<rect x="70" y="303" width="5" height="5" fill="#FFFFFF" opacity="0.55"/>
+<text x="84" y="312" fill="#9C9C96" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12.5">rpc edge</text>
+<rect x="70" y="324" width="5" height="5" fill="#FFFFFF" opacity="0.55"/>
+<text x="84" y="333" fill="#9C9C96" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12.5">solbench</text>
+<rect x="70" y="345" width="5" height="5" fill="#FFFFFF" opacity="0.55"/>
+<text x="84" y="354" fill="#9C9C96" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12.5">solana-infra-mcp</text>
+<rect x="424" y="118" width="352" height="268" rx="6" fill="#141413" stroke="#2F2F2C" stroke-width="1"/>
+<rect x="424" y="118" width="352" height="3" fill="#FFFFFF" opacity="0.65"/>
+<text x="446" y="164" fill="#F2F1EE" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="19" font-weight="700">Agent operating systems</text>
+<text x="446" y="188" fill="#6F6F69" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="1.6">THE HARNESS</text>
+<line x1="446" y1="206" x2="754" y2="206" stroke="#2F2F2C" stroke-width="1"/>
+<text x="446" y="234" fill="#9C9C96" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">skills · memory · jobs · verification</text>
+<text x="446" y="264" fill="#6F6F69" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="13">the layer agents actually fail on,</text>
+<text x="446" y="283" fill="#6F6F69" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="13">not the model</text>
+<rect x="446" y="303" width="5" height="5" fill="#FFFFFF" opacity="0.55"/>
+<text x="460" y="312" fill="#9C9C96" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12.5">mission-control</text>
+<rect x="446" y="324" width="5" height="5" fill="#FFFFFF" opacity="0.55"/>
+<text x="460" y="333" fill="#9C9C96" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12.5">lacp</text>
+<rect x="446" y="345" width="5" height="5" fill="#FFFFFF" opacity="0.55"/>
+<text x="460" y="354" fill="#9C9C96" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12.5">council</text>
+<rect x="800" y="118" width="352" height="268" rx="6" fill="#141413" stroke="#2F2F2C" stroke-width="1"/>
+<rect x="800" y="118" width="352" height="3" fill="#FFFFFF" opacity="0.40"/>
+<text x="822" y="164" fill="#F2F1EE" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="19" font-weight="700">Dev tools</text>
+<text x="822" y="188" fill="#6F6F69" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="1.6">OPERATOR SURFACE</text>
+<line x1="822" y1="206" x2="1130" y2="206" stroke="#2F2F2C" stroke-width="1"/>
+<text x="822" y="234" fill="#9C9C96" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">CLI · MCP · profiles · anti-slop</text>
+<text x="822" y="264" fill="#6F6F69" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="13">small sharp tools people run every</text>
+<text x="822" y="283" fill="#6F6F69" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="13">day</text>
+<rect x="822" y="303" width="5" height="5" fill="#FFFFFF" opacity="0.55"/>
+<text x="836" y="312" fill="#9C9C96" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12.5">xint</text>
+<rect x="822" y="324" width="5" height="5" fill="#FFFFFF" opacity="0.55"/>
+<text x="836" y="333" fill="#9C9C96" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12.5">silo</text>
+<rect x="822" y="345" width="5" height="5" fill="#FFFFFF" opacity="0.55"/>
+<text x="836" y="354" fill="#9C9C96" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12.5">unmachined</text>
+<text x="48" y="436" fill="#6F6F69" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="1.2">nyk.dev · github.com/0xNyk</text>
+<text x="1152" y="436" text-anchor="end" fill="#6F6F69" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">shipped in public</text>
 </svg>

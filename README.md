@@ -25,6 +25,12 @@ Ventures under the name: co-founder [rpc edge](https://rpcedge.com) · founded [
   <a href="https://x.com/rpcedge"><img src="https://img.shields.io/badge/X-@rpcedge-171716?style=flat-square&logo=x" alt="rpc edge on X" /></a>
 </p>
 
+<p>
+  <a href="https://nyk.dev/consulting#packages"><b>Fixed-scope packages →</b></a> ·
+  <a href="https://nyk.dev/products/agent-os-kit">Agent OS Kit</a> ·
+  <a href="https://nyk.dev">Field notes</a>
+</p>
+
 </div>
 
 ---
@@ -59,6 +65,20 @@ Open tooling for the same stack:
 | [unmachined](https://github.com/0xNyk/unmachined) | Anti-AI-slop skill - text + UI that reads written, not generated | [![stars](assets/badges/0xNyk--unmachined.svg)](https://github.com/0xNyk/unmachined/stargazers) |
 
 **Upstream:** contributor to [**Hermes Agent**](https://github.com/NousResearch/hermes-agent) (Nous Research) - cron/timezone fix on `main` via [co-authored commit](https://github.com/NousResearch/hermes-agent/commit/605ba4adea51af2580f1ab94fd6372e873c108e7), plus [open PRs](https://github.com/NousResearch/hermes-agent/pulls?q=author%3A0xNyk) for session continuity, skills, and subagent isolation. Also proposing fixes to [OpenClaw](https://github.com/openclaw/openclaw/pulls?q=author%3A0xNyk).
+
+## Work with me
+
+Fixed scope, fixed price band, agreed before anything starts. You get the system
+and the handoff, not a dependency on me.
+
+| | | |
+|---|---|---|
+| **Agent Reliability Audit** | 2 weeks · from $4K | Trajectory evals that locate where your agents actually fail, plus a fix list in priority order |
+| **Agent OS Setup** | 2-4 weeks · from $5K | A working agent stack your team can run without me |
+| **Solana infra** | 2-6 weeks · from $8K | Latency-sensitive execution paths, data and transaction sending |
+| **Agent OS Kit** | €149 · instant | The controls as editable files, if you would rather install it yourself |
+
+→ [See all packages](https://nyk.dev/consulting#packages) · [Book a 30-min intro](https://nyk.dev/contact)
 
 ## Selected open-source work
 
@@ -107,9 +127,6 @@ Open tooling for the same stack:
   <img src="assets/stack.png" alt="Build surface: Solana infra, AI agent ops, Dev tools" width="900" />
 </p>
 
-## Consulting
-
-Selective engagements: agent operations and Solana infrastructure. → [nyk.dev/consulting](https://nyk.dev/consulting)
 
 ## Connect
 
