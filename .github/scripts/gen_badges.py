@@ -3,8 +3,9 @@
 
 Scans README.md for assets/badges/<owner>--<repo>[--gray].svg references,
 fetches live star counts from the GitHub API, and writes flat-square badges:
-label "stars" in white on #0A0A0A, count in near-black on mint (#6EF2A8)
-or gray (#888888) for the --gray variant. Adding a badge reference to the
+label "stars" in white on #0D0D0C, count in near-black on white (#FFFFFF)
+or grey (#84847E) for the --gray variant. Achroma (v5): the accent is maximum
+value, not a hue. Adding a badge reference to the
 README is enough for the next run to start generating it.
 """
 
@@ -18,10 +19,10 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[2]
 OUT = ROOT / "assets" / "badges"
 
-LABEL_BG = "#0A0A0A"
+LABEL_BG = "#0D0D0C"
 LABEL_FG = "#FFFFFF"
-VALUE_FG = "#0A0A0A"
-VARIANTS = {"": "#6EF2A8", "--gray": "#888888"}
+VALUE_FG = "#0D0D0C"
+VARIANTS = {"": "#FFFFFF", "--gray": "#84847E"}
 
 # Approximate Verdana 11px advance widths for the characters badges use.
 CHAR_W = {
