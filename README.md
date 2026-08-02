@@ -1,20 +1,28 @@
 <div align="center">
 
-![nyk](assets/banner.png?v=6ef2a8-mint)
+<picture>
+  <!-- A README renders in the VIEWER's theme. The ink banner bleeds to true
+       black so it dissolves into dark chrome; on a white README that same
+       bleed becomes a hard rectangle, so light mode gets the paper register. -->
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner.png?v=achroma-v5">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png?v=achroma-v5">
+  <img alt="nyk — agent operating systems, Solana infrastructure, open source" src="assets/banner.png?v=achroma-v5">
+</picture>
 
-**Builder** - AI agent ops, Solana infrastructure, open source.  
+**Agents fail on the harness, not the model.**  
+Agent operating systems, Solana infrastructure, open source.  
 Personal brand / hub: [nyk.dev](https://nyk.dev) · GitHub: [github.com/0xNyk](https://github.com/0xNyk)
 
 Ventures under the name: co-founder [rpc edge](https://rpcedge.com) · founded [Builderz](https://builderz.dev) · selective consulting.
 
 <p>
-  <a href="https://nyk.dev"><img src="https://img.shields.io/badge/nyk.dev-6EF2A8?style=flat-square&logo=vercel&logoColor=0A0A0A" alt="nyk.dev" /></a>
-  <a href="https://github.com/0xNyk"><img src="https://img.shields.io/badge/GitHub-0xNyk-181717?style=flat-square&logo=github&logoColor=6EF2A8" alt="GitHub 0xNyk" /></a>
+  <a href="https://nyk.dev"><img src="https://img.shields.io/badge/nyk.dev-FFFFFF?style=flat-square&logo=vercel&logoColor=0D0D0C" alt="nyk.dev" /></a>
+  <a href="https://github.com/0xNyk"><img src="https://img.shields.io/badge/GitHub-0xNyk-181717?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub 0xNyk" /></a>
   <a href="https://github.com/0xNyk?tab=repositories"><img src="assets/badges/total.svg" alt="OSS stars" /></a>
-  <a href="https://rpcedge.com"><img src="https://img.shields.io/badge/rpc%20edge-rpcedge.com-C5F23F?style=flat-square&labelColor=0A0A0A" alt="rpc edge" /></a>
-  <a href="https://docs.rpcedge.com"><img src="https://img.shields.io/badge/docs-docs.rpcedge.com-0A0A0A?style=flat-square" alt="rpc edge docs" /></a>
-  <a href="https://x.com/nykdotdev"><img src="https://img.shields.io/badge/X-@nykdotdev-0A0A0A?style=flat-square&logo=x&logoColor=6EF2A8" alt="X" /></a>
-  <a href="https://x.com/rpcedge"><img src="https://img.shields.io/badge/X-@rpcedge-111111?style=flat-square&logo=x" alt="rpc edge on X" /></a>
+  <a href="https://rpcedge.com"><img src="https://img.shields.io/badge/rpc%20edge-rpcedge.com-C5F23F?style=flat-square&labelColor=0D0D0C" alt="rpc edge" /></a>
+  <a href="https://docs.rpcedge.com"><img src="https://img.shields.io/badge/docs-docs.rpcedge.com-0D0D0C?style=flat-square" alt="rpc edge docs" /></a>
+  <a href="https://x.com/nykdotdev"><img src="https://img.shields.io/badge/X-@nykdotdev-0D0D0C?style=flat-square&logo=x&logoColor=FFFFFF" alt="X" /></a>
+  <a href="https://x.com/rpcedge"><img src="https://img.shields.io/badge/X-@rpcedge-171716?style=flat-square&logo=x" alt="rpc edge on X" /></a>
 </p>
 
 </div>
