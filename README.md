@@ -35,7 +35,7 @@ Ventures under the name: co-founder [rpc edge](https://rpcedge.com) · founded [
 
 ---
 
-I build the **ops layer for AI agent fleets** - quotas, safety gates, orchestration, control planes - and prove it in daily use: my ventures run on the same agent stack I open-source, down to the live star counts on this page. <!-- oss-total -->**16.3K+ OSS stars** (16,288 live across every repo I have authored, listed on this page)<!-- /oss-total -->, code upstream in [Hermes Agent](https://github.com/NousResearch/hermes-agent). [rpc edge](https://rpcedge.com) is the Solana infrastructure venture; the rest is public tooling people use.
+I build the **ops layer for AI agent fleets** - quotas, safety gates, orchestration, control planes - and prove it in daily use: my ventures run on the same agent stack I open-source, down to the live star counts on this page. <!-- oss-total -->**16.3K+ OSS stars** (16,293 live across every repo I have authored, listed on this page)<!-- /oss-total -->, code upstream in [Hermes Agent](https://github.com/NousResearch/hermes-agent). [rpc edge](https://rpcedge.com) is the Solana infrastructure venture; the rest is public tooling people use.
 
 ## What I'm building now
 
