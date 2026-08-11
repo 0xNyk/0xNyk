@@ -1,0 +1,19 @@
+# Local browser and automation profiles contain cookies, login databases,
+# session storage, extension state, history, and machine-specific caches.
+.sk/
+**/Default/Cookies*
+**/Default/Login Data*
+**/Default/Session Storage/
+**/Default/Local Storage/
+**/Default/Extension State/
+**/Default/Preferences
+**/Local State
+
+# Local credentials and runtime state never belong in this profile repository.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
