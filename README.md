@@ -18,6 +18,7 @@ Ventures under the name: co-founder [rpc edge](https://rpcedge.com) · founded [
 <p>
   <a href="https://nyk.dev"><img src="https://img.shields.io/badge/nyk.dev-FFFFFF?style=flat-square&logo=vercel&logoColor=0D0D0C" alt="nyk.dev" /></a>
   <a href="https://github.com/0xNyk"><img src="https://img.shields.io/badge/GitHub-0xNyk-181717?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub 0xNyk" /></a>
+  <a href="https://github.com/sponsors/0xNyk"><img src="https://img.shields.io/github/sponsors/0xNyk?style=flat-square&label=Sponsor" alt="GitHub Sponsors" /></a>
   <a href="https://github.com/0xNyk?tab=repositories"><img src="assets/badges/total.svg" alt="OSS stars" /></a>
   <a href="https://rpcedge.com"><img src="https://img.shields.io/badge/rpc%20edge-rpcedge.com-C5F23F?style=flat-square&labelColor=0D0D0C" alt="rpc edge" /></a>
   <a href="https://docs.rpcedge.com"><img src="https://img.shields.io/badge/docs-docs.rpcedge.com-0D0D0C?style=flat-square" alt="rpc edge docs" /></a>
@@ -87,6 +88,9 @@ and the handoff, not a dependency on me.
 | **Agent OS Kit** | €149 · instant | The controls as editable files, if you would rather install it yourself |
 
 → [See all packages](https://nyk.dev/consulting#packages) · [Book a 30-min intro](https://nyk.dev/contact)
+
+Public OSS stays public. [Sponsor maintenance](https://github.com/sponsors/0xNyk).
+
 
 ## Selected open-source work
 
