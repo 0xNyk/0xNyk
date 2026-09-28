@@ -13,7 +13,7 @@
 Agent operating systems, Solana infrastructure, open source.  
 Personal brand / hub: [nyk.dev](https://nyk.dev) · GitHub: [github.com/0xNyk](https://github.com/0xNyk)
 
-Ventures under the name: co-founder [rpc edge](https://rpcedge.com) · founded [Builderz](https://builderz.dev) · selective consulting.
+Ventures under the name: founded [rpc edge](https://rpcedge.com) · founded [Builderz](https://builderz.dev) · selective consulting.
 
 <p>
   <a href="https://nyk.dev"><img src="https://img.shields.io/badge/nyk.dev-FFFFFF?style=flat-square&logo=vercel&logoColor=0D0D0C" alt="nyk.dev" /></a>
@@ -45,8 +45,6 @@ I build the **ops layer for AI agent fleets** - quotas, safety gates, orchestrat
 | One Hermes thread is carrying too much unrelated history | [Hermes session management guide](https://www.nyk.dev/blog/hermes-agent-session-management-guide?utm_source=github&utm_medium=profile&utm_campaign=guide&utm_content=operator_resources) |
 | You need to find the missing controls in an agent setup | [30-point Agent OS checklist](https://www.nyk.dev/resources/agent-os-checklist?utm_source=github&utm_medium=profile&utm_campaign=lead_magnet&utm_content=operator_resources) |
 | You want to practice authority, verification, recovery, skill admission, and release operations | [Production Agent Systems course](https://www.nyk.dev/go/production-agent-course?utm_source=github&utm_medium=profile&utm_campaign=production_agent_course&utm_content=operator_resources) |
-
-## What I'm building now
 
 **[rpc edge](https://rpcedge.com)** - low-latency Solana infrastructure for high-frequency trading. Dedicated RPC, Yellowstone gRPC, decoded shred streams, and a transaction sender - co-located with the cluster and the Jito Block Engine. Metered bandwidth, self-serve, settled in USDC on Solana. _By Polaris Labs._
 
