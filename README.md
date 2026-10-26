@@ -13,21 +13,19 @@
 Agent operating systems, Solana infrastructure, open source.  
 Personal brand / hub: [nyk.dev](https://nyk.dev) · GitHub: [github.com/0xNyk](https://github.com/0xNyk)
 
-Ventures under the name: founded [rpc edge](https://rpcedge.com) · founded [Builderz](https://builderz.dev) · selective consulting.
+Founder of [Builderz](https://builderz.dev), a development studio for Solana products and AI agent systems.
 
 <p>
+  <a href="https://builderz.dev"><img src="https://img.shields.io/badge/Builderz-builderz.dev-6B5CFF?style=flat-square" alt="Builderz" /></a>
   <a href="https://nyk.dev"><img src="https://img.shields.io/badge/nyk.dev-FFFFFF?style=flat-square&logo=vercel&logoColor=0D0D0C" alt="nyk.dev" /></a>
   <a href="https://github.com/0xNyk"><img src="https://img.shields.io/badge/GitHub-0xNyk-181717?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub 0xNyk" /></a>
   <a href="https://github.com/sponsors/0xNyk"><img src="https://img.shields.io/github/sponsors/0xNyk?style=flat-square&label=Sponsor" alt="GitHub Sponsors" /></a>
   <a href="https://github.com/0xNyk?tab=repositories"><img src="assets/badges/total.svg" alt="OSS stars" /></a>
-  <a href="https://rpcedge.com"><img src="https://img.shields.io/badge/rpc%20edge-rpcedge.com-C5F23F?style=flat-square&labelColor=0D0D0C" alt="rpc edge" /></a>
-  <a href="https://docs.rpcedge.com"><img src="https://img.shields.io/badge/docs-docs.rpcedge.com-0D0D0C?style=flat-square" alt="rpc edge docs" /></a>
   <a href="https://x.com/nykdotdev"><img src="https://img.shields.io/badge/X-@nykdotdev-0D0D0C?style=flat-square&logo=x&logoColor=FFFFFF" alt="X" /></a>
-  <a href="https://x.com/rpcedge"><img src="https://img.shields.io/badge/X-@rpcedge-171716?style=flat-square&logo=x" alt="rpc edge on X" /></a>
 </p>
 
 <p>
-  <a href="https://nyk.dev/consulting#packages"><b>Fixed-scope packages →</b></a> ·
+  <a href="https://builderz.dev"><b>Build with Builderz →</b></a> ·
   <a href="https://nyk.dev/products/agent-os-kit">Agent OS Kit</a> ·
   <a href="https://nyk.dev">Field notes</a>
 </p>
@@ -36,7 +34,15 @@ Ventures under the name: founded [rpc edge](https://rpcedge.com) · founded [Bui
 
 ---
 
-I build the **ops layer for AI agent fleets** - quotas, safety gates, orchestration, control planes - and prove it in daily use: my ventures run on the same agent stack I open-source, down to the live star counts on this page. <!-- oss-total -->**16.7K+ OSS stars** (16,672 live across every repo I have authored, listed on this page). [rpc edge](https://rpcedge.com) is the Solana infrastructure venture; the rest is public tooling people use.
+I build the **ops layer for AI agent fleets** - quotas, safety gates, orchestration, control planes - and prove it in daily use: my ventures run on the same agent stack I open-source, down to the live star counts on this page. <!-- oss-total -->**16.7K+ OSS stars** (16,672 live across every repo I have authored, listed on this page)<!-- /oss-total -->.
+
+## Builderz
+
+I founded [Builderz](https://builderz.dev) to build Solana products. Today, the studio also delivers AI agent systems, infrastructure integrations, and product design.
+
+We work from architecture through launch, and help teams repair systems that are failing in production. Our open-source work lives at [builderz-labs](https://github.com/builderz-labs).
+
+→ [Explore the studio](https://builderz.dev) · [Send a project brief](https://builderz.dev/contact)
 
 ## Agent operator resources
 
@@ -46,25 +52,10 @@ I build the **ops layer for AI agent fleets** - quotas, safety gates, orchestrat
 | You need to find the missing controls in an agent setup | [30-point Agent OS checklist](https://www.nyk.dev/resources/agent-os-checklist?utm_source=github&utm_medium=profile&utm_campaign=lead_magnet&utm_content=operator_resources) |
 | You want to practice authority, verification, recovery, skill admission, and release operations | [Production Agent Systems course](https://www.nyk.dev/go/production-agent-course?utm_source=github&utm_medium=profile&utm_campaign=production_agent_course&utm_content=operator_resources) |
 
-**[rpc edge](https://rpcedge.com)** - low-latency Solana infrastructure for high-frequency trading. Dedicated RPC, Yellowstone gRPC, decoded shred streams, and a transaction sender - co-located with the cluster and the Jito Block Engine. Metered bandwidth, self-serve, settled in USDC on Solana. _By Polaris Labs._
-
-Open tooling for the same stack:
-
-| Repo | What it is |
-|---|---|
-| [rpcedge-toolkit](https://github.com/rpc-edge/rpcedge-toolkit) | TypeScript SDK, CLI, and MCP server for Solana trading infrastructure |
-| [rpcedge-copy-ref](https://github.com/rpc-edge/rpcedge-copy-ref) | Paper copy-watch reference - doctor → poll wallet → paper log (not financial advice) |
-| [rpcedge-dlmm-ref](https://github.com/rpc-edge/rpcedge-dlmm-ref) | Paper Meteora DLMM pool-watch reference - doctor → accountSubscribe → paper log (not financial advice) |
-
-→ [rpcedge.com](https://rpcedge.com) · [docs.rpcedge.com](https://docs.rpcedge.com) · [toolkit](https://rpcedge.com/toolkit)
-
 **Latest open source (shipping):**
 
 | Project | One-liner | Stars |
 |---|---|---|
-| [rpcedge-toolkit](https://github.com/rpc-edge/rpcedge-toolkit) | TypeScript SDK, CLI, and MCP server for rpc edge / Solana trading infra | [![stars](assets/badges/rpc-edge--rpcedge-toolkit.svg)](https://github.com/rpc-edge/rpcedge-toolkit/stargazers) |
-| [rpcedge-copy-ref](https://github.com/rpc-edge/rpcedge-copy-ref) | Minimal paper copy-watch reference for rpc edge (doctor → poll → paper log) | [![stars](assets/badges/rpc-edge--rpcedge-copy-ref.svg)](https://github.com/rpc-edge/rpcedge-copy-ref/stargazers) |
-| [rpcedge-dlmm-ref](https://github.com/rpc-edge/rpcedge-dlmm-ref) | Paper Meteora DLMM pool-watch reference for rpc edge (not financial advice) | [![stars](assets/badges/rpc-edge--rpcedge-dlmm-ref.svg)](https://github.com/rpc-edge/rpcedge-dlmm-ref/stargazers) |
 | [hermes-buzz](https://github.com/0xNyk/hermes-buzz) | Hermes Agent × Buzz starter kit (buzz-acp + hermes-acp onboarding)| [![stars](assets/badges/0xNyk--hermes-buzz.svg)](https://github.com/0xNyk/hermes-buzz/stargazers) |
 | [llmquota](https://github.com/0xNyk/llmquota) | Terminal roster for LLM CLI quotas - see usage, reset times, and which agent still has headroom | [![stars](assets/badges/0xNyk--llmquota.svg)](https://github.com/0xNyk/llmquota/stargazers) |
 | [agent-security](https://github.com/0xNyk/agent-security) | Safety gates for agent-touched repos - scan leaks, vet code, trip on prompt injection, guard destructive ops | [![stars](assets/badges/0xNyk--agent-security.svg)](https://github.com/0xNyk/agent-security/stargazers) |
@@ -117,11 +108,24 @@ Public OSS stays public. [Sponsor maintenance](https://github.com/sponsors/0xNyk
 | [builderz-xNFT-scaffold-next](https://github.com/builderz-labs/builderz-xNFT-scaffold-next) | Solana xNFT scaffold (Next.js, TypeScript, Tailwind) | [![stars](assets/badges/builderz-labs--builderz-xNFT-scaffold-next--gray.svg)](https://github.com/builderz-labs/builderz-xNFT-scaffold-next/stargazers) |
 | [solana-claude-md](https://github.com/builderz-labs/solana-claude-md) | Open-source CLAUDE.md pack for Solana program work | [![stars](assets/badges/builderz-labs--solana-claude-md--gray.svg)](https://github.com/builderz-labs/solana-claude-md/stargazers) |
 | [hermes-cf-bypass](https://github.com/0xNyk/hermes-cf-bypass) | Cloudflare TLS fingerprint bypass for Hermes on datacenter VPS | [![stars](assets/badges/0xNyk--hermes-cf-bypass--gray.svg)](https://github.com/0xNyk/hermes-cf-bypass/stargazers) |
-| [unmachined](https://github.com/0xNyk/unmachined) | Anti-AI-slop agent skill - deterministic scanners + severity-tiered tell catalogs for text and UI | [![stars](assets/badges/0xNyk--unmachined--gray.svg)](https://github.com/0xNyk/unmachined/stargazers) |
 | [renaissance-xnft](https://github.com/builderz-labs/renaissance-xnft) | Royalty tracking and redemption for NFT communities | [![stars](assets/badges/builderz-labs--renaissance-xnft--gray.svg)](https://github.com/builderz-labs/renaissance-xnft/stargazers) |
-| [silo](https://github.com/0xNyk/silo) | Isolated Claude Code profiles via `CLAUDE_CONFIG_DIR` - personal / work / clients without vault swap | [![stars](assets/badges/0xNyk--silo--gray.svg)](https://github.com/0xNyk/silo/stargazers) |
 | [obsidian-curator](https://github.com/0xNyk/obsidian-curator) | Deterministic knowledge-graph maintenance for Claude + Obsidian | [![stars](assets/badges/0xNyk--obsidian-curator--gray.svg)](https://github.com/0xNyk/obsidian-curator/stargazers) |
 | [homebrew-xint](https://github.com/0xNyk/homebrew-xint) | Homebrew tap for xint and xint-rs | [![stars](assets/badges/0xNyk--homebrew-xint--gray.svg)](https://github.com/0xNyk/homebrew-xint/stargazers) |
+
+</details>
+
+## Other ventures
+
+[rpc edge](https://rpcedge.com): Solana infrastructure with dedicated RPC, Yellowstone gRPC, shred streams, and transaction sending. [Docs](https://docs.rpcedge.com) · [@rpcedge](https://x.com/rpcedge).
+
+<details>
+<summary>rpc edge open-source tooling</summary>
+
+| Project | What it does | Stars |
+|---|---|---|
+| [rpcedge-toolkit](https://github.com/rpc-edge/rpcedge-toolkit) | TypeScript SDK, CLI, and MCP server for rpc edge / Solana trading infra | [![stars](assets/badges/rpc-edge--rpcedge-toolkit.svg)](https://github.com/rpc-edge/rpcedge-toolkit/stargazers) |
+| [rpcedge-copy-ref](https://github.com/rpc-edge/rpcedge-copy-ref) | Minimal paper copy-watch reference for rpc edge (doctor → poll → paper log) | [![stars](assets/badges/rpc-edge--rpcedge-copy-ref.svg)](https://github.com/rpc-edge/rpcedge-copy-ref/stargazers) |
+| [rpcedge-dlmm-ref](https://github.com/rpc-edge/rpcedge-dlmm-ref) | Paper Meteora DLMM pool-watch reference for rpc edge (not financial advice) | [![stars](assets/badges/rpc-edge--rpcedge-dlmm-ref.svg)](https://github.com/rpc-edge/rpcedge-dlmm-ref/stargazers) |
 
 </details>
 
@@ -143,5 +147,4 @@ Public OSS stays public. [Sponsor maintenance](https://github.com/sponsors/0xNyk
 | | |
 |---|---|
 | **Profile** | [github.com/0xNyk](https://github.com/0xNyk) · [nyk.dev](https://nyk.dev) · [@nykdotdev](https://x.com/nykdotdev) |
-| **rpc edge** | [rpcedge.com](https://rpcedge.com) · [@rpcedge](https://x.com/rpcedge) · [docs](https://docs.rpcedge.com) |
-| **Studio** | [Builderz](https://builderz.dev) · [consulting](https://nyk.dev/consulting) |
+| **Builderz** | [Studio](https://builderz.dev) · [GitHub](https://github.com/builderz-labs) · [Project enquiries](https://builderz.dev/contact) |
