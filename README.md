@@ -34,7 +34,7 @@ Founder of [Builderz](https://builderz.dev), a development studio for Solana pro
 
 ---
 
-I build the **ops layer for AI agent fleets** - quotas, safety gates, orchestration, control planes - and prove it in daily use: my ventures run on the same agent stack I open-source, down to the live star counts on this page. <!-- oss-total -->**18.6K+ OSS stars** (18,597 live across every repo I have authored, listed on this page)<!-- /oss-total -->.
+I build the **ops layer for AI agent fleets** - quotas, safety gates, orchestration, control planes - and prove it in daily use: my ventures run on the same agent stack I open-source, down to the live star counts on this page. <!-- oss-total -->**18.6K+ OSS stars** (18,609 live across every repo I have authored, listed on this page)<!-- /oss-total -->.
 
 ## Builderz
 
